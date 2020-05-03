@@ -14,7 +14,7 @@ Date | Paper | Presenter | Links
 5/25 | Curiosity-driven Exploration by Self-supervised Prediction, Pathak et al, 2017. | Haneul Choi | [[paper]](https://arxiv.org/abs/1705.05363) [review] [code]
 6/1 | Mastering the game of Go with deep neural networks and tree search, D. Silver et al, Nature, 2016. | Minseok Seong | [[paper]](https://www.nature.com/articles/nature16961) [review] [code]
 6/1 | Mastering the game of Go without human knowledge, D. Silver et al, Nature, 2017. | Donggu Kang | [[paper]](https://www.nature.com/articles/nature24270) [review] [code]
-6/8 | Agent57: Outperforming the Atari Human Benchmark, AP. Badia et al, 2020. | Yunhyeok Kwak | [[paper]](https://arxiv.org/pdf/2003.13350.pdf) [review] [code]
+6/8 | Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model, J. Schrittwieser et al, 2019. | Yunhyeok Kwak | [[paper]](https://arxiv.org/pdf/1911.08265.pdf) [review] [code]
 6/8 | Deep Reinforcement Learning from Self-Play in Imperfect-Information Games, J. Heinrich et al, 2016. | Jiseong Lee | [[paper]](https://arxiv.org/pdf/1603.01121.pdf) [review] [code]
 6/15 | Evolution Strategies as a Scalable Alternative to Reinforcement Learning, Salimans et al, 2017. | Chanhyuk Park | [[paper]](https://arxiv.org/abs/1703.03864) [review] [code]
 6/15 | QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation, Kalashnikov et al, 2018. | Hyecheol Jang | [[paper]](https://arxiv.org/abs/1806.10293) [review] [code]
