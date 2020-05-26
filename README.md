@@ -8,16 +8,16 @@ Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
 5/11 | Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013. | Ingyun Ahn | [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) [review] [code]
 5/11 | Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015. | Jaeyoung Ahn | [[paper]](https://arxiv.org/abs/1511.06581) [review] [code]
-5/18 | Deep Reinforcement Learning with Double Q-learning, Hasselt et al 2015. | Dohun Kim | [[paper]](https://arxiv.org/abs/1509.06461) [review] [code]
-5/18 | Asynchronous Methods for Deep Reinforcement Learning, Mnih et al, 2016. | Seungyoun Shin | [[paper]](https://arxiv.org/abs/1602.01783) [review] [code]
-5/25 | Proximal Policy Optimization Algorithms, Schulman et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/abs/1707.06347) [review] [code]
-5/25 | Mastering the game of Go with deep neural networks and tree search, D. Silver et al, Nature, 2016. | Minseok Seong | [[paper]](https://www.nature.com/articles/nature16961) [review] [code]
-6/1 | Curiosity-driven Exploration by Self-supervised Prediction, Pathak et al, 2017. | Haneul Choi | [[paper]](https://arxiv.org/abs/1705.05363) [review] [code]
-6/1 | Mastering the game of Go without human knowledge, D. Silver et al, Nature, 2017. | Donggu Kang | [[paper]](https://www.nature.com/articles/nature24270) [review] [code]
-6/8 | Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model, J. Schrittwieser et al, 2019. | Yunhyeok Kwak | [[paper]](https://arxiv.org/pdf/1911.08265) [review] [code]
-6/8 | Model-based RL in Contextual Decision Processes: PAC bounds and Exponential Improvements over Model-free Approaches, Wen Sun et al, 2019. | Hoesung Ryu | [[paper]](https://arxiv.org/abs/1811.08540) [review] [code]
-6/15 | Evolution Strategies as a Scalable Alternative to Reinforcement Learning, Salimans et al, 2017. | Chanhyuk Park | [[paper]](https://arxiv.org/abs/1703.03864) [review] [code]
-6/15 | QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation, Kalashnikov et al, 2018. | Hyecheol Jang | [[paper]](https://arxiv.org/abs/1806.10293) [review] [code]
+5/25 | Deep Reinforcement Learning with Double Q-learning, Hasselt et al 2015. | Dohun Kim | [[paper]](https://arxiv.org/abs/1509.06461) [review] [code]
+5/25 | Asynchronous Methods for Deep Reinforcement Learning, Mnih et al, 2016. | Seungyoun Shin | [[paper]](https://arxiv.org/abs/1602.01783) [review] [code]
+6/1 | Proximal Policy Optimization Algorithms, Schulman et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/abs/1707.06347) [review] [code]
+6/1 | Mastering the game of Go with deep neural networks and tree search, D. Silver et al, Nature, 2016. | Minseok Seong | [[paper]](https://www.nature.com/articles/nature16961) [review] [code]
+6/8 | Curiosity-driven Exploration by Self-supervised Prediction, Pathak et al, 2017. | Haneul Choi | [[paper]](https://arxiv.org/abs/1705.05363) [review] [code]
+6/8 | Mastering the game of Go without human knowledge, D. Silver et al, Nature, 2017. | Donggu Kang | [[paper]](https://www.nature.com/articles/nature24270) [review] [code]
+6/15 | Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model, J. Schrittwieser et al, 2019. | Yunhyeok Kwak | [[paper]](https://arxiv.org/pdf/1911.08265) [review] [code]
+6/15 | Model-based RL in Contextual Decision Processes: PAC bounds and Exponential Improvements over Model-free Approaches, Wen Sun et al, 2019. | Hoesung Ryu | [[paper]](https://arxiv.org/abs/1811.08540) [review] [code]
+6/22 | Evolution Strategies as a Scalable Alternative to Reinforcement Learning, Salimans et al, 2017. | Chanhyuk Park | [[paper]](https://arxiv.org/abs/1703.03864) [review] [code]
+6/22 | QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation, Kalashnikov et al, 2018. | Hyecheol Jang | [[paper]](https://arxiv.org/abs/1806.10293) [review] [code]
 
 ## Contact
 
