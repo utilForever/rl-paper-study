@@ -10,7 +10,7 @@ Date | Paper | Presenter | Links
 5/11 | Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015. | Jaeyoung Ahn | [[paper]](https://arxiv.org/abs/1511.06581) [review] [code]
 5/25 | Deep Reinforcement Learning with Double Q-learning, Hasselt et al 2015. | Dohun Kim | [[paper]](https://arxiv.org/abs/1509.06461) [review] [code]
 5/25 | Asynchronous Methods for Deep Reinforcement Learning, Mnih et al, 2016. | Seungyoun Shin | [[paper]](https://arxiv.org/abs/1602.01783) [review] [code]
-6/1 | Proximal Policy Optimization Algorithms, Schulman et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/abs/1707.06347) [review] [code]
+6/1 | Continuous Control With Deep Reinforcement Learning, Lillicrap et al, 2015. | Chris Ohk | [[paper]](https://arxiv.org/abs/1509.02971) [review] [code]
 6/1 | Mastering the game of Go with deep neural networks and tree search, D. Silver et al, Nature, 2016. | Minseok Seong | [[paper]](https://www.nature.com/articles/nature16961) [review] [code]
 6/8 | Curiosity-driven Exploration by Self-supervised Prediction, Pathak et al, 2017. | Haneul Choi | [[paper]](https://arxiv.org/abs/1705.05363) [review] [code]
 6/8 | Mastering the game of Go without human knowledge, D. Silver et al, Nature, 2017. | Donggu Kang | [[paper]](https://www.nature.com/articles/nature24270) [review] [code]
