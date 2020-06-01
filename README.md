@@ -8,8 +8,8 @@ Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
 5/11 | Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013. | Ingyun Ahn | [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) [[review]](./1st/200511%20-%20Playing%20Atari%20with%20Deep%20Reinforcement%20Learning%2C%20Mnih%20et%20al%2C%202013.pdf) [code]
 5/11 | Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015. | Jaeyoung Ahn | [[paper]](https://arxiv.org/abs/1511.06581) [[review]](./1st/200511%20-%20Dueling%20Network%20Architectures%20for%20Deep%20Reinforcement%20Learning%2C%20Wang%20et%20al%2C%202015.pdf) [code]
-5/25 | Deep Reinforcement Learning with Double Q-learning, Hasselt et al 2015. | Dohun Kim | [[paper]](https://arxiv.org/abs/1509.06461) [review] [code]
-5/25 | Asynchronous Methods for Deep Reinforcement Learning, Mnih et al, 2016. | Seungyoun Shin | [[paper]](https://arxiv.org/abs/1602.01783) [review] [code]
+5/25 | Deep Reinforcement Learning with Double Q-learning, Hasselt et al 2015. | Dohun Kim | [[paper]](https://arxiv.org/abs/1509.06461) [[review]](./1st/200525%20-%20Deep%20Reinforcement%20Learning%20with%20Double%20Q-learning%2C%20Hasselt%20et%20al%202015.pdf) [code]
+5/25 | Asynchronous Methods for Deep Reinforcement Learning, Mnih et al, 2016. | Seungyoun Shin | [[paper]](https://arxiv.org/abs/1602.01783) [[review]](./1st/200525%20-%20Asynchronous%20Methods%20for%20Deep%20Reinforcement%20Learning%2C%20Mnih%20et%20al%2C%202016.pdf) [code]
 6/1 | Continuous Control With Deep Reinforcement Learning, Lillicrap et al, 2015. | Chris Ohk | [[paper]](https://arxiv.org/abs/1509.02971) [review] [code]
 6/1 | Mastering the game of Go with deep neural networks and tree search, D. Silver et al, Nature, 2016. | Minseok Seong | [[paper]](https://www.nature.com/articles/nature16961) [review] [code]
 6/8 | Curiosity-driven Exploration by Self-supervised Prediction, Pathak et al, 2017. | Haneul Choi | [[paper]](https://arxiv.org/abs/1705.05363) [review] [code]
