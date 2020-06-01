@@ -38,7 +38,7 @@ Copyright (c) 2020 RL Paper Study Team
   * [Dohun Kim]
   * [Seungyoun Shin]
   * [Haneul Choi]
-  * [Minseok Seong]
+  * [Minsuk Sung](https://github.com/mssung94)
   * [Donggu Kang]
   * [Hoesung Ryu]
   * [Chanhyuk Park]
