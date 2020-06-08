@@ -35,7 +35,7 @@ Copyright (c) 2020 RL Paper Study Team
   * [Yunhyeok Kwak](https://github.com/yun-kwak)
   * [Ingyun Ahn]
   * [Jaeyoung Ahn]
-  * [Do-Hoon Kim]
+  * [Do-Hoon Kim](https://github.com/bsstayo)
   * [Seungyoun Shin]
   * [Haneul Choi]
   * [Minsuk Sung](https://github.com/mssung94)
