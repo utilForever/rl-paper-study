@@ -14,10 +14,10 @@ Date | Paper | Presenter | Links
 6/1 | Mastering the game of Go with deep neural networks and tree search, D. Silver et al, Nature, 2016. | Minseok Seong | [[paper]](https://www.nature.com/articles/nature16961) [[review]](./1st/200601%20-%20Mastering%20the%20game%20of%20Go%20with%20deep%20neural%20networks%20and%20tree%20search%2C%20D.%20Silver%20et%20al%2C%20Nature%2C%202016.pdf) [code]
 6/8 | Curiosity-driven Exploration by Self-supervised Prediction, Pathak et al, 2017. | Haneul Choi | [[paper]](https://arxiv.org/abs/1705.05363) [[review]](./1st/200608%20-%20Curiosity-driven%20Exploration%20by%20Self-supervised%20Prediction%2C%20Pathak%20et%20al%2C%202017.pdf) [code]
 6/8 | Mastering the game of Go without human knowledge, D. Silver et al, Nature, 2017. | Donggu Kang | [[paper]](https://www.nature.com/articles/nature24270) [[review]](./1st/200608%20-%20Mastering%20the%20game%20of%20Go%20without%20human%20knowledge%2C%20D.%20Silver%20et%20al%2C%20Nature%2C%202017.pdf) [code]
-6/15 | Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model, J. Schrittwieser et al, 2019. | Yunhyeok Kwak | [[paper]](https://arxiv.org/pdf/1911.08265) [review] [code]
-6/15 | Model-based RL in Contextual Decision Processes: PAC bounds and Exponential Improvements over Model-free Approaches, Wen Sun et al, 2019. | Hoesung Ryu | [[paper]](https://arxiv.org/abs/1811.08540) [review] [code]
-6/22 | Evolution Strategies as a Scalable Alternative to Reinforcement Learning, Salimans et al, 2017. | Chanhyuk Park | [[paper]](https://arxiv.org/abs/1703.03864) [review] [code]
-6/22 | QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation, Kalashnikov et al, 2018. | Hyecheol (Jerry) Jang | [[paper]](https://arxiv.org/abs/1806.10293) [review] [code]
+6/22 | Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model, J. Schrittwieser et al, 2019. | Yunhyeok Kwak | [[paper]](https://arxiv.org/pdf/1911.08265) [review] [code]
+6/22 | Model-based RL in Contextual Decision Processes: PAC bounds and Exponential Improvements over Model-free Approaches, Wen Sun et al, 2019. | Hoesung Ryu | [[paper]](https://arxiv.org/abs/1811.08540) [review] [code]
+6/29 | Evolution Strategies as a Scalable Alternative to Reinforcement Learning, Salimans et al, 2017. | Chanhyuk Park | [[paper]](https://arxiv.org/abs/1703.03864) [review] [code]
+6/29 | QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation, Kalashnikov et al, 2018. | Hyecheol (Jerry) Jang | [[paper]](https://arxiv.org/abs/1806.10293) [review] [code]
 
 ## Contact
 
