@@ -17,7 +17,7 @@ Date | Paper | Presenter | Links
 6/22 | Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model, J. Schrittwieser et al, 2019. | Yunhyeok Kwak | [[paper]](https://arxiv.org/pdf/1911.08265) [[review]](./1st/200622%20-%20Mastering%20Atari%2C%20Go%2C%20Chess%20and%20Shogi%20by%20Planning%20with%20a%20Learned%20Model%2C%20J.%20Schrittwieser%20et%20al%2C%202019.pdf) [code]
 6/22 | Contextual Decision Processes with low Bellman rank are PAC-Learnable, N. Jiang et al, 2017. | Hoesung Ryu | [[paper]](https://arxiv.org/abs/1610.09512) [review] [code]
 6/29 | Evolution Strategies as a Scalable Alternative to Reinforcement Learning, Salimans et al, 2017. | Chanhyuk Park | [[paper]](https://arxiv.org/abs/1703.03864) [review] [code]
-6/29 | QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation, Kalashnikov et al, 2018. | Hyecheol (Jerry) Jang | [[paper]](https://arxiv.org/abs/1806.10293) [review] [code]
+6/29 | QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation, Kalashnikov et al, 2018. | Hyecheol (Jerry) Jang | [[paper]](https://arxiv.org/abs/1806.10293) [[review]](https://github.com/hyecheol123/Summary_of_QT-Opt)
 
 ## Contact
 
