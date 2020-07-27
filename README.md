@@ -24,7 +24,7 @@ Date | Paper | Presenter | Links
 Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
 7/27 | Deep Recurrent Q-Learning for Partially Observable MDPs, M. Hausknecht et al, 2015. | Minsuk Sung | [[paper]](https://arxiv.org/pdf/1507.06527.pdf) [review]
-7/27 | Horizon: Facebook’s Open Source Applied Reinforcement Learning Platform, J. Gauci et al, 2018. | Chanhyuk Park | [[paper]](https://arxiv.org/pdf/1811.00260.pdf) [review]
+8/3 | Horizon: Facebook’s Open Source Applied Reinforcement Learning Platform, J. Gauci et al, 2018. | Chanhyuk Park | [[paper]](https://arxiv.org/pdf/1811.00260.pdf) [review]
 8/3 | Learning Dexterous In-Hand Manipulation, M. Andrychowicz et al, 2020. | Ingyun Ahn | [[paper]](https://arxiv.org/pdf/1808.00177.pdf) [review]
 8/3 | Hierarchical Visuomotor Control of Humanoids, J. Merel et al, 2018. | Seonghyeon Moon | [[paper]](https://arxiv.org/pdf/1811.09656.pdf) [review]
 8/10 | Deep Reinforcement Learning with a Natural Language Action Space, J. He et al, 2015. | Jihun Kim | [[paper]](https://arxiv.org/pdf/1511.04636.pdf) [review]
