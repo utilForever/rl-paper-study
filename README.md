@@ -24,7 +24,7 @@ Date | Paper | Presenter | Links
 Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
 7/27 | Deep Recurrent Q-Learning for Partially Observable MDPs, M. Hausknecht et al, 2015. | Minsuk Sung | [[paper]](https://arxiv.org/pdf/1507.06527.pdf) [[review]](./2nd/200727%20-%20Deep%20Recurrent%20Q-Learning%20for%20Partially%20Observable%20MDPs%2C%20M.%20Hausknecht%20et%20al%2C%202015.pdf)
-8/3 | Hierarchical Visuomotor Control of Humanoids, J. Merel et al, 2018. | Seonghyeon Moon | [[paper]](https://arxiv.org/pdf/1811.09656.pdf) [review]
+8/3 | Hierarchical Visuomotor Control of Humanoids, J. Merel et al, 2018. | Seonghyeon Moon | [[paper]](https://arxiv.org/pdf/1811.09656.pdf) [[review]](./2nd/200803%20-%20Hierarchical%20Visuomotor%20Control%20of%20Humanoids%2C%20J.%20Merel%20et%20al%2C%202018.pdf)
 8/10 | Learning Dexterous In-Hand Manipulation, M. Andrychowicz et al, 2020. | Ingyun Ahn | [[paper]](https://arxiv.org/pdf/1808.00177.pdf) [[review]](./2nd/200810%20-%20Learning%20Dexterous%20In-Hand%20Manipulation%2C%20M.%20Andrychowicz%20et%20al%2C%202020.pdf)
 8/10 | Deep Reinforcement Learning with a Natural Language Action Space, J. He et al, 2015. | Jihun Kim | [[paper]](https://arxiv.org/pdf/1511.04636.pdf) [[review]](./2nd/200810%20-%20Deep%20Reinforcement%20Learning%20with%20a%20Natural%20Language%20Action%20Space%2C%20J.%20He%20et%20al%2C%202015.pdf)
 8/10 | Program Guided Agent, SH. Sun et al, 2020. | Haneul Choi | [[paper]](https://openreview.net/attachment?id=BkxUvnEYDH&name=original_pdf) [[review]](./2nd/200810%20-%20Program%20Guided%20Agent%2C%20SH.%20Sun%20et%20al%2C%202020.pdf)
