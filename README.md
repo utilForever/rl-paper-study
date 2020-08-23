@@ -24,18 +24,17 @@ Date | Paper | Presenter | Links
 Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
 7/27 | Deep Recurrent Q-Learning for Partially Observable MDPs, M. Hausknecht et al, 2015. | Minsuk Sung | [[paper]](https://arxiv.org/pdf/1507.06527.pdf) [[review]](./2nd/200727%20-%20Deep%20Recurrent%20Q-Learning%20for%20Partially%20Observable%20MDPs%2C%20M.%20Hausknecht%20et%20al%2C%202015.pdf)
-8/3 | Horizon: Facebook’s Open Source Applied Reinforcement Learning Platform, J. Gauci et al, 2018. | Chanhyuk Park | [[paper]](https://arxiv.org/pdf/1811.00260.pdf) [review]
 8/3 | Hierarchical Visuomotor Control of Humanoids, J. Merel et al, 2018. | Seonghyeon Moon | [[paper]](https://arxiv.org/pdf/1811.09656.pdf) [review]
 8/10 | Learning Dexterous In-Hand Manipulation, M. Andrychowicz et al, 2020. | Ingyun Ahn | [[paper]](https://arxiv.org/pdf/1808.00177.pdf) [review]
 8/10 | Deep Reinforcement Learning with a Natural Language Action Space, J. He et al, 2015. | Jihun Kim | [[paper]](https://arxiv.org/pdf/1511.04636.pdf) [review]
 8/10 | Program Guided Agent, SH. Sun et al, 2020. | Haneul Choi | [[paper]](https://openreview.net/attachment?id=BkxUvnEYDH&name=original_pdf) [review]
-8/17 | Trust Region Policy Optimization, Schulman et al, 2015. | Chris Ohk | [[paper]](https://arxiv.org/pdf/1502.05477.pdf) [review]
-8/17 | Proximal Policy Optimization Algorithms, Schulman et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/pdf/1707.06347.pdf) [review]
-8/17 | Implementation Matters in Deep RL: A Case Study on PPO and TRPO, L. Engstrom et al, 2020. | Yunhyeok Kwak | [[paper]](https://openreview.net/attachment?id=r1etN1rtPB&name=original_pdf) [review]
-8/24 | Generative Adversarial Imitation Learning, J. Ho et al, 2016. | Hoesung Ryu | [[paper]](https://papers.nips.cc/paper/6391-generative-adversarial-imitation-learning.pdf) [review]
-8/24 | Efficient Reductions for Imitation Learning, S. Ross et al, 2010. | Hyecheol (Jerry) Jang | [[paper]](http://proceedings.mlr.press/v9/ross10a/ross10a.pdf) [review]
-8/31 | Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow, XB. Peng et al, 2018. | Do-Hoon Kim | [[paper]](https://arxiv.org/pdf/1810.00821.pdf) [review]
-8/31 | Grandmaster Level in StarCraft II using Multi-agent Reinforcement Learning, O. Vinyals et al, 2019. | Donggu Kang | [[paper]](https://deepmind.com/research/publications/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning) [review]
+8/24 | Trust Region Policy Optimization, Schulman et al, 2015. | Chris Ohk | [[paper]](https://arxiv.org/pdf/1502.05477.pdf) [review]
+8/31 | Proximal Policy Optimization Algorithms, Schulman et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/pdf/1707.06347.pdf) [review]
+8/31 | Implementation Matters in Deep RL: A Case Study on PPO and TRPO, L. Engstrom et al, 2020. | Yunhyeok Kwak | [[paper]](https://openreview.net/attachment?id=r1etN1rtPB&name=original_pdf) [review]
+9/7 | Generative Adversarial Imitation Learning, J. Ho et al, 2016. | Hoesung Ryu | [[paper]](https://papers.nips.cc/paper/6391-generative-adversarial-imitation-learning.pdf) [review]
+9/7 | Efficient Reductions for Imitation Learning, S. Ross et al, 2010. | Hyecheol (Jerry) Jang | [[paper]](http://proceedings.mlr.press/v9/ross10a/ross10a.pdf) [review]
+9/14 | Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow, XB. Peng et al, 2018. | Do-Hoon Kim | [[paper]](https://arxiv.org/pdf/1810.00821.pdf) [review]
+9/14 | Grandmaster Level in StarCraft II using Multi-agent Reinforcement Learning, O. Vinyals et al, 2019. | Donggu Kang | [[paper]](https://deepmind.com/research/publications/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning) [review]
 
 
 ## Contact
