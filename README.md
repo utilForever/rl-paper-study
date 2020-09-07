@@ -32,7 +32,7 @@ Date | Paper | Presenter | Links
 8/31 | Proximal Policy Optimization Algorithms, Schulman et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/pdf/1707.06347.pdf) [[review]](./2nd/200831%20-%20Proximal%20Policy%20Optimization%20Algorithms%2C%20Schulman%20et%20al%2C%202017.pdf)
 8/31 | Implementation Matters in Deep RL: A Case Study on PPO and TRPO, L. Engstrom et al, 2020. | Yunhyeok Kwak | [[paper]](https://openreview.net/attachment?id=r1etN1rtPB&name=original_pdf) [[review]](./2nd/200831%20-%20Implementation%20Matters%20in%20Deep%20RL%20A%20Case%20Study%20on%20PPO%20and%20TRPO%2C%20L.%20Engstrom%20et%20al%2C%202020.pdf)
 9/7 | Generative Adversarial Imitation Learning, J. Ho et al, 2016. | Hoesung Ryu | [[paper]](https://papers.nips.cc/paper/6391-generative-adversarial-imitation-learning.pdf) [review]
-9/7 | Efficient Reductions for Imitation Learning, S. Ross et al, 2010. | Hyecheol (Jerry) Jang | [[paper]](http://proceedings.mlr.press/v9/ross10a/ross10a.pdf) [review]
+9/14 | Efficient Reductions for Imitation Learning, S. Ross et al, 2010. | Hyecheol (Jerry) Jang | [[paper]](http://proceedings.mlr.press/v9/ross10a/ross10a.pdf) [review]
 9/14 | Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow, XB. Peng et al, 2018. | Do-Hoon Kim | [[paper]](https://arxiv.org/pdf/1810.00821.pdf) [review]
 9/14 | Grandmaster Level in StarCraft II using Multi-agent Reinforcement Learning, O. Vinyals et al, 2019. | Donggu Kang | [[paper]](https://deepmind.com/research/publications/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning) [review]
 
