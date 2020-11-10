@@ -57,12 +57,24 @@ Copyright (c) 2020 RL Paper Study Team
   * [Seungyoun Shin](https://github.com/SeungyounShin)
   * [Haneul Choi](https://github.com/caelum02)
   * [Minsuk Sung](https://github.com/mssung94)
-  * Donggu Kang
+  * [Donggu Kang](https://github.com/HERIUN)
   * Hoesung Ryu
   * [Chanhyuk Park](https://github.com/WithM2)
   * [Hyecheol (Jerry) Jang](https://github.com/hyecheol123)
   * [Jihun Kim](https://github.com/kgh6784)
   * Seonghyeon Moon
+  * [Sungdong Yoo](https://github.com/sungdongy)
+  * [Junyeob Beak](https://github.com/CUN-bjy)
+  * Sungkwon On
+  * [Hyo Jeon](https://github.com/hyojeon)
+  * [Jungyeon Lee](https://github.com/curieuxjy)
+  * [Junhyung Kang](https://github.com/JunHyungKang)
+  * [Wonwoo Choi](https://github.com/deepwonwoo)
+  * [Sooyoung Lee](https://github.com/soo02-ai)
+  * Handong Im
+  * Juyeon Kim
+  * [Youngjin Jung](https://github.com/Jung0Jin)
+  * Heemok Ha
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
