@@ -40,7 +40,7 @@ Date | Paper | Presenter | Links
 
 Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
-11/9 | Trust Region Policy Optimization, J. Schulman et al, 2015. | Chris Ohk | [[paper]](https://arxiv.org/pdf/1502.05477.pdf) [review]
+11/9 | Trust Region Policy Optimization, J. Schulman et al, 2015. | Chris Ohk | [[paper]](https://arxiv.org/pdf/1502.05477.pdf) [[review]](./3rd/201109%20-%20Trust%20Region%20Policy%20Optimization%2C%20Schulman%20et%20al%2C%202015.pdf)
 TBA | Proximal Policy Optimization Algorithms, J. Schulman et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/pdf/1707.06347.pdf) [review]
 TBA | Deep Reinforcement Learning with Stacked Hierarchical Attention for Text-based Games, Y. Xu et al, 2020. | Chris Ohk | [[paper]](https://arxiv.org/pdf/2010.11655.pdf) [review]
 11/16 | Model based Reinforcement Learning for Atari, L. Kaiser et al, 2019. | Sungdong Yoo | [[paper]](https://arxiv.org/pdf/1903.00374.pdf) [review]
