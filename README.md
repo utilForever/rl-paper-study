@@ -43,8 +43,8 @@ Date | Paper | Presenter | Links
 11/9 | Trust Region Policy Optimization, J. Schulman et al, 2015. | Chris Ohk | [[paper]](https://arxiv.org/pdf/1502.05477.pdf) [[review]](./3rd/201109%20-%20Trust%20Region%20Policy%20Optimization%2C%20Schulman%20et%20al%2C%202015.pdf)
 TBA | Proximal Policy Optimization Algorithms, J. Schulman et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/pdf/1707.06347.pdf) [review]
 TBA | Deep Reinforcement Learning with Stacked Hierarchical Attention for Text-based Games, Y. Xu et al, 2020. | Chris Ohk | [[paper]](https://arxiv.org/pdf/2010.11655.pdf) [review]
-11/16 | Model based Reinforcement Learning for Atari, L. Kaiser et al, 2019. | Sungdong Yoo | [[paper]](https://arxiv.org/pdf/1903.00374.pdf) [review]
-11/16 | High-dimensional Continuous Control using Generalized Advantage Estimation, J. Schulman et al, 2015. | Junyeob Baek | [[paper]](https://arxiv.org/pdf/1506.02438.pdf) [review]
+11/16 | Model based Reinforcement Learning for Atari, L. Kaiser et al, 2019. | Sungdong Yoo | [[paper]](https://arxiv.org/pdf/1903.00374.pdf) [[review]](./3rd/201116%20-%20Model%20based%20Reinforcement%20Learning%20for%20Atari%2C%20L.%20Kaiser%20et%20al%2C%202019.pdf)
+11/16 | High-dimensional Continuous Control using Generalized Advantage Estimation, J. Schulman et al, 2015. | Junyeob Baek | [[paper]](https://arxiv.org/pdf/1506.02438.pdf) [[review]](./3rd/201116%20-%20High-dimensional%20Continuous%20Control%20using%20Generalized%20Advantage%20Estimation%2C%20J.%20Schulman%20et%20al.pdf)
 11/23 | The Option-critic Architecture, PL. Bacon et al, 2017. | Seonghyeon Moon | [[paper]](https://arxiv.org/pdf/1609.05140.pdf) [review]
 11/23 | Rainbow: Combining Improvements in Deep Reinforcement Learning, M. Hessel et al, 2017. | Sungkwon On | [[paper]](https://arxiv.org/pdf/1710.02298.pdf) [review]
 11/30 | Prioritized Experience Replay, T. Schaul et al, 2015. | Donggu Kang | [[paper]](https://arxiv.org/pdf/1511.05952.pdf) [review]
