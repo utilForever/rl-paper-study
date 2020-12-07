@@ -48,7 +48,6 @@ TBA | Deep Reinforcement Learning with Stacked Hierarchical Attention for Text-b
 11/23 | The Option-critic Architecture, PL. Bacon et al, 2017. | Seonghyeon Moon | [[paper]](https://arxiv.org/pdf/1609.05140.pdf) [review]
 11/23 | Rainbow: Combining Improvements in Deep Reinforcement Learning, M. Hessel et al, 2017. | Sungkwon On | [[paper]](https://arxiv.org/pdf/1710.02298.pdf) [review]
 11/30 | Prioritized Experience Replay, T. Schaul et al, 2015. | Donggu Kang | [[paper]](https://arxiv.org/pdf/1511.05952.pdf) [review]
-11/30 | Soft Actor-critic: Off-policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, T. Haarnoja et al, 2018. | Hyo Jeon | [[paper]](https://arxiv.org/pdf/1801.01290.pdf) [review]
 12/7 | Distributed Prioritized Experience Replay, D. Horgan et al, 2018. | Jungyeon Lee | [[paper]](https://arxiv.org/pdf/1803.00933.pdf) [review]
 12/7 | Impala: Scalable Distributed Deep-RL with Importance Weighted Actor-learner Architectures, L. Espeholt et al, 2018. | Junhyung Kang | [[paper]](https://arxiv.org/pdf/1802.01561.pdf) [review]
 12/14 | A Distributional Perspective on Reinforcement Learning, MG. Bellemare et al, 2017. | Wonwoo Choi | [[paper]](https://arxiv.org/pdf/1707.06887.pdf) [review]
@@ -56,7 +55,7 @@ TBA | Deep Reinforcement Learning with Stacked Hierarchical Attention for Text-b
 12/21 | Action-gap Phenomenon in Reinforcement Learning, A. Farahmand et al, 2011. | Handong Im | [[paper]](http://papers.neurips.cc/paper/4485-action-gap-phenomenon-in-reinforcement-learning.pdf) [review]
 12/21 | Multi-agent Actor-critic for Mixed Cooperative-competitive Environments, R. Lowe et al, 2017. | Juyeon Kim | [[paper]](https://arxiv.org/pdf/1706.02275.pdf) [review]
 12/28 | Second-order Optimization for Deep Reinforcement Learning using Kronecker-factored Approximation, Y. Wu et al, 2017. | Youngjin Jung | [[paper]](https://arxiv.org/pdf/1708.05144.pdf) [review]
-12/28 | Evolution Strategies as a Scalable Alternative to Reinforcement Learning, T. Salimans et al, 2017. | Heemok Ha | [[paper]](https://arxiv.org/pdf/1703.03864.pdf) [review]
+12/28 | Soft Actor-critic: Off-policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, T. Haarnoja et al, 2018. | Hyo Jeon | [[paper]](https://arxiv.org/pdf/1801.01290.pdf) [review]
 
 ## Contact
 
