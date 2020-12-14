@@ -41,8 +41,6 @@ Date | Paper | Presenter | Links
 Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
 11/9 | Trust Region Policy Optimization, J. Schulman et al, 2015. | Chris Ohk | [[paper]](https://arxiv.org/pdf/1502.05477.pdf) [[review]](./3rd/201109%20-%20Trust%20Region%20Policy%20Optimization%2C%20Schulman%20et%20al%2C%202015.pdf)
-TBA | Proximal Policy Optimization Algorithms, J. Schulman et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/pdf/1707.06347.pdf) [review]
-TBA | Deep Reinforcement Learning with Stacked Hierarchical Attention for Text-based Games, Y. Xu et al, 2020. | Chris Ohk | [[paper]](https://arxiv.org/pdf/2010.11655.pdf) [review]
 11/16 | Model based Reinforcement Learning for Atari, L. Kaiser et al, 2019. | Sungdong Yoo | [[paper]](https://arxiv.org/pdf/1903.00374.pdf) [[review]](./3rd/201116%20-%20Model%20based%20Reinforcement%20Learning%20for%20Atari%2C%20L.%20Kaiser%20et%20al%2C%202019.pdf)
 11/16 | High-dimensional Continuous Control using Generalized Advantage Estimation, J. Schulman et al, 2015. | Junyeob Baek | [[paper]](https://arxiv.org/pdf/1506.02438.pdf) [[review]](./3rd/201116%20-%20High-dimensional%20Continuous%20Control%20using%20Generalized%20Advantage%20Estimation%2C%20J.%20Schulman%20et%20al.pdf)
 11/23 | The Option-critic Architecture, PL. Bacon et al, 2017. | Seonghyeon Moon | [[paper]](https://arxiv.org/pdf/1609.05140.pdf) [[review]](./3rd/201123%20-%20The%20Option-critic%20Architecture%2C%20PL.%20Bacon%20et%20al%2C%202017.pdf)
@@ -53,9 +51,10 @@ TBA | Deep Reinforcement Learning with Stacked Hierarchical Attention for Text-b
 12/14 | A Distributional Perspective on Reinforcement Learning, MG. Bellemare et al, 2017. | Wonwoo Choi | [[paper]](https://arxiv.org/pdf/1707.06887.pdf) [[review]](./3rd/201214%20-%20A%20Distributional%20Perspective%20on%20Reinforcement%20Learning%2C%20MG.%20Bellemare%20et%20al%2C%202017.pdf)
 12/14 | Addressing Function Approximation Error in Actor-critic Methods, S. Fujimoto et al, 2018. | Sooyoung Lee | [[paper]](https://arxiv.org/pdf/1802.09477.pdf) [[review]](.3rd/201214%20-%20Addressing%20Function%20Approximation%20Error%20in%20Actor-critic%20Methods%2C%20S.%20Fujimoto%20et%20al%2C%202018.pdf)
 12/21 | Action-gap Phenomenon in Reinforcement Learning, A. Farahmand et al, 2011. | Handong Im | [[paper]](http://papers.neurips.cc/paper/4485-action-gap-phenomenon-in-reinforcement-learning.pdf) [review]
-12/21 | Multi-agent Actor-critic for Mixed Cooperative-competitive Environments, R. Lowe et al, 2017. | Juyeon Kim | [[paper]](https://arxiv.org/pdf/1706.02275.pdf) [review]
+12/21 | Soft Actor-critic: Off-policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, T. Haarnoja et al, 2018. | Hyo Jeon | [[paper]](https://arxiv.org/pdf/1801.01290.pdf) [review]
 12/28 | Second-order Optimization for Deep Reinforcement Learning using Kronecker-factored Approximation, Y. Wu et al, 2017. | Youngjin Jung | [[paper]](https://arxiv.org/pdf/1708.05144.pdf) [review]
-12/28 | Soft Actor-critic: Off-policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, T. Haarnoja et al, 2018. | Hyo Jeon | [[paper]](https://arxiv.org/pdf/1801.01290.pdf) [review]
+12/28 | Proximal Policy Optimization Algorithms, J. Schulman et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/pdf/1707.06347.pdf) [review]
+12/28 | Agent57: Outperforming the Atari Human Benchmark, Badia, A. P. et al, 2020. | Chris Ohk | [[paper]](https://arxiv.org/pdf/2003.13350.pdf) [review]
 
 ## Contact
 
@@ -92,9 +91,7 @@ Copyright (c) 2020 RL Paper Study Team
   * [Wonwoo Choi](https://github.com/deepwonwoo)
   * [Sooyoung Lee](https://github.com/soo02-ai)
   * Handong Im
-  * Juyeon Kim
   * [Youngjin Jung](https://github.com/Jung0Jin)
-  * Heemok Ha
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
