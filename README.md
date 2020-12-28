@@ -52,8 +52,6 @@ Date | Paper | Presenter | Links
 12/14 | Addressing Function Approximation Error in Actor-critic Methods, S. Fujimoto et al, 2018. | Sooyoung Lee | [[paper]](https://arxiv.org/pdf/1802.09477.pdf) [[review]](.3rd/201214%20-%20Addressing%20Function%20Approximation%20Error%20in%20Actor-critic%20Methods%2C%20S.%20Fujimoto%20et%20al%2C%202018.pdf)
 12/21 | Action-gap Phenomenon in Reinforcement Learning, A. Farahmand et al, 2011. | Handong Im | [[paper]](http://papers.neurips.cc/paper/4485-action-gap-phenomenon-in-reinforcement-learning.pdf) [review]
 12/21 | Soft Actor-critic: Off-policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, T. Haarnoja et al, 2018. | Hyo Jeon | [[paper]](https://arxiv.org/pdf/1801.01290.pdf) [review]
-12/28 | Second-order Optimization for Deep Reinforcement Learning using Kronecker-factored Approximation, Y. Wu et al, 2017. | Youngjin Jung | [[paper]](https://arxiv.org/pdf/1708.05144.pdf) [review]
-12/28 | Proximal Policy Optimization Algorithms, J. Schulman et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/pdf/1707.06347.pdf) [review]
 12/28 | Agent57: Outperforming the Atari Human Benchmark, Badia, A. P. et al, 2020. | Chris Ohk | [[paper]](https://arxiv.org/pdf/2003.13350.pdf) [review]
 
 ## Contact
@@ -91,7 +89,6 @@ Copyright (c) 2020 RL Paper Study Team
   * [Wonwoo Choi](https://github.com/deepwonwoo)
   * [Sooyoung Lee](https://github.com/soo02-ai)
   * Handong Im
-  * [Youngjin Jung](https://github.com/Jung0Jin)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
