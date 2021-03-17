@@ -4,11 +4,11 @@
 
 rl-paper-study is Reinforcement Learning paper review study. We review a variety of papers, from famous papers such as DQN to state-of-the-art papers introduced in the latest conferences.
 
-- [1st Study](./1st/README.md)
+- [1st Study](./1st)
 
-- [2nd Study](./2nd/README.md)
+- [2nd Study](./2nd)
 
-- [3rd Study](./3rd/README.md)
+- [3rd Study](./3rd)
 
 ## Contact
 
