@@ -4,7 +4,7 @@ Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
 3/29 | Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015. | Jiyun Kim | [[paper]](https://arxiv.org/abs/1511.06581) [review]
 3/29 | Sim-to-Real Leaning of All Common Bipedal Gaits via Periodic Reward Composition, J. Siekmann et al, 2020. | Hansol Kang | [[paper]](https://arxiv.org/abs/2011.01387) [review]
-4/5 | Multi-Agent Reinforcement Learning for Dynamic Spare Parts Inventory Control, C. Yu et al, 2020. | Jiwon Chong | [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9280935) [review]
+4/5 | Asynchronous Methods for Deep Reinforcement Learning, Mnih et al, 2016. | Jiwon Chong | [[paper]](https://arxiv.org/abs/1602.01783) [review]
 4/5 | Deep Reinforcement Learning with Double Q-learning, Hasselt et al, 2015. | Soobin Park | [[paper]](https://arxiv.org/abs/1509.06461) [review]
 4/12 | Adversarially Guided Actor-Critic, Y. Flet-Berliac et al, 2021. | Chris Ohk | [[paper]](https://arxiv.org/abs/2102.04376) [review]
 4/12 | Hindsight Experience Replay, M. Andrychowicz et al, 2017. | Donggu Kang | [[paper]](https://arxiv.org/abs/1707.01495) [review]
