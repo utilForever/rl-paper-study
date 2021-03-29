@@ -2,8 +2,8 @@
 
 Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
-3/29 | Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015. | Jiyun Kim | [[paper]](https://arxiv.org/abs/1511.06581) [[review]](./4th/210329%20-%20Dueling%20Network%20Architectures%20for%20Deep%20Reinforcement%20Learning%2C%20Wang%20et%20al%2C%202015.pdf)
-3/29 | Sim-to-Real Leaning of All Common Bipedal Gaits via Periodic Reward Composition, J. Siekmann et al, 2020. | Hansol Kang | [[paper]](https://arxiv.org/abs/2011.01387) [[review]](./4th/210329%20-%20Sim-to-Real%20Leaning%20of%20All%20Common%20Bipedal%20Gaits%20via%20Periodic%20Reward%20Composition%2C%20J.%20Siekmann%20et%20al%2C%202020.pdf)
+3/29 | Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015. | Jiyun Kim | [[paper]](https://arxiv.org/abs/1511.06581) [[review]](./210329%20-%20Dueling%20Network%20Architectures%20for%20Deep%20Reinforcement%20Learning%2C%20Wang%20et%20al%2C%202015.pdf)
+3/29 | Sim-to-Real Leaning of All Common Bipedal Gaits via Periodic Reward Composition, J. Siekmann et al, 2020. | Hansol Kang | [[paper]](https://arxiv.org/abs/2011.01387) [[review]](./210329%20-%20Sim-to-Real%20Leaning%20of%20All%20Common%20Bipedal%20Gaits%20via%20Periodic%20Reward%20Composition%2C%20J.%20Siekmann%20et%20al%2C%202020.pdf)
 4/5 | Asynchronous Methods for Deep Reinforcement Learning, Mnih et al, 2016. | Jiwon Chong | [[paper]](https://arxiv.org/abs/1602.01783) [review]
 4/5 | Deep Reinforcement Learning with Double Q-learning, Hasselt et al, 2015. | Soobin Park | [[paper]](https://arxiv.org/abs/1509.06461) [review]
 4/12 | Adversarially Guided Actor-Critic, Y. Flet-Berliac et al, 2021. | Chris Ohk | [[paper]](https://arxiv.org/abs/2102.04376) [review]
