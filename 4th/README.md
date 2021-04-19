@@ -8,7 +8,7 @@ Date | Paper | Presenter | Links
 4/12 | Adversarially Guided Actor-Critic, Y. Flet-Berliac et al, 2021. | Chris Ohk | [[paper]](https://arxiv.org/abs/2102.04376) [[review]](./210412%20-%20Adversarially%20Guided%20Actor-Critic%2C%20Y.%20Flet-Berliac%20et%20al%2C%202021.pdf)
 4/12 | Hindsight Experience Replay, M. Andrychowicz et al, 2017. | Donggu Kang | [[paper]](https://arxiv.org/abs/1707.01495) [[review]](./210412%20-%20Hindsight%20Experience%20Replay%2C%20M.%20Andrychowicz%20et%20al%2C%202017.pdf)
 4/19 | Addressing Function Approximation Error in Actor-Critic Methods, S. Fujimoto et al, 2018. | Junhyun Park | [[paper]](https://arxiv.org/abs/1802.09477) [review]
-4/19 | Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments, R. Lowe et al, 2017. | Seungeon Baek | [[paper]](https://arxiv.org/abs/1706.02275) [review]
+4/19 | Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments, R. Lowe et al, 2017. | Seungeon Baek | [[paper]](https://arxiv.org/abs/1706.02275) [[review]](./210419%20-%20Multi-Agent%20Actor-Critic%20for%20Mixed%20Cooperative-Competitive%20Environments%2C%20R.%20Lowe%20et%20al%2C%202017.pdf)
 4/26 | Generating Text with Deep Reinforcement Learning, H. Guo et al, 2015. | Wonho Lee | [[paper]](https://arxiv.org/abs/1510.09202) [review]
 4/26 | Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, T. Haarnoja et al, 2018. | Soohan Kang | [[paper]](https://arxiv.org/abs/1801.01290) [review]
 5/3 | Distributional Reinforcement Learning with Quantile Regression, W. Dabney et al, 2017. | Jiae Lee | [[paper]](https://arxiv.org/abs/1710.10044) [review]
