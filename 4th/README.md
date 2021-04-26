@@ -10,8 +10,7 @@ Date | Paper | Presenter | Links
 4/19 | Addressing Function Approximation Error in Actor-Critic Methods, S. Fujimoto et al, 2018. | Junhyun Park | [[paper]](https://arxiv.org/abs/1802.09477) [[review]](./210419%20-%20Addressing%20Function%20Approximation%20Error%20in%20Actor-Critic%20Methods%2C%20S.%20Fujimoto%20et%20al%2C%202018.pdf)
 4/19 | Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments, R. Lowe et al, 2017. | Seungeon Baek | [[paper]](https://arxiv.org/abs/1706.02275) [[review]](./210419%20-%20Multi-Agent%20Actor-Critic%20for%20Mixed%20Cooperative-Competitive%20Environments%2C%20R.%20Lowe%20et%20al%2C%202017.pdf)
 4/26 | Generating Text with Deep Reinforcement Learning, H. Guo et al, 2015. | Wonho Lee | [[paper]](https://arxiv.org/abs/1510.09202) [review]
-4/26 | Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, T. Haarnoja et al, 2018. | Soohan Kang | [[paper]](https://arxiv.org/abs/1801.01290) [review]
-5/3 | Distributional Reinforcement Learning with Quantile Regression, W. Dabney et al, 2017. | Jiae Lee | [[paper]](https://arxiv.org/abs/1710.10044) [review]
+5/3 | Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, T. Haarnoja et al, 2018. | Soohan Kang | [[paper]](https://arxiv.org/abs/1801.01290) [review]
 5/3 | QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation, Kalashnikov et al, 2018. | Jihyeok Choi | [[paper]](https://arxiv.org/abs/1806.10293) [review]
 5/10 | Randomized Ensembled Double Q-Learning: Learning Fast Without a Model, X. Chen et al, 2021. | Jungyeon Lee | [[paper]](https://arxiv.org/abs/2101.05982) [review]
 5/10 | Human-Level Control through Deep Reinforcement Learning, Mnih et al. 2015. | Kangbeen Ko | [[paper]](https://www.nature.com/articles/nature14236?wm=book_wap_0005) [review]
@@ -19,6 +18,7 @@ Date | Paper | Presenter | Links
 5/17 | Continuous Control with Deep Reinforcement Learning, TP. Lillicrap et al, 2015. | Bongseok Kim | [[paper]](https://arxiv.org/abs/1509.02971) [review]
 5/24 | Demand-Aware Career Path Recommendations: A Reinforcement Learning Approach, M. Kokkodis et al, 2020. | Minkyu Shin | [[paper]](https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2020.3727) [review]
 5/24 | Deep Reinforcement Learning for Dialogue Generation, J. Li et al, 2016. | Daejin Jo | [[paper]](https://arxiv.org/abs/1606.01541) [review]
+5/31 | Distributional Reinforcement Learning with Quantile Regression, W. Dabney et al, 2017. | Jiae Lee | [[paper]](https://arxiv.org/abs/1710.10044) [review]
 
 ### Study Member
 
