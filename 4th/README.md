@@ -11,7 +11,6 @@ Date | Paper | Presenter | Links
 4/19 | Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments, R. Lowe et al, 2017. | Seungeon Baek | [[paper]](https://arxiv.org/abs/1706.02275) [[review]](./210419%20-%20Multi-Agent%20Actor-Critic%20for%20Mixed%20Cooperative-Competitive%20Environments%2C%20R.%20Lowe%20et%20al%2C%202017.pdf)
 4/26 | Generating Text with Deep Reinforcement Learning, H. Guo et al, 2015. | Wonho Lee | [[paper]](https://arxiv.org/abs/1510.09202) [[review]](./210426%20-%20Generating%20Text%20with%20Deep%20Reinforcement%20Learning%2C%20H.%20Guo%20et%20al%2C%202015.pdf)
 5/3 | Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, T. Haarnoja et al, 2018. | Soohan Kang | [[paper]](https://arxiv.org/abs/1801.01290) [review]
-5/3 | QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation, Kalashnikov et al, 2018. | Jihyeok Choi | [[paper]](https://arxiv.org/abs/1806.10293) [review]
 5/10 | Randomized Ensembled Double Q-Learning: Learning Fast Without a Model, X. Chen et al, 2021. | Jungyeon Lee | [[paper]](https://arxiv.org/abs/2101.05982) [review]
 5/10 | Human-Level Control through Deep Reinforcement Learning, Mnih et al. 2015. | Kangbeen Ko | [[paper]](https://www.nature.com/articles/nature14236?wm=book_wap_0005) [review]
 5/17 | Proximal Policy Optimization Algorithms, J. Schulman et al, 2017. | Wonwoo Choi | [[paper]](https://arxiv.org/abs/1707.06347) [review]
@@ -26,14 +25,12 @@ Date | Paper | Presenter | Links
 * [Jiyun Kim](http://www.github.com/Helia-17)
 * [Hansol Kang](http://www.github.com/OnesoulKang)
 * Jiwon Chong
-* Soobin Park
 * [Donggu Kang](http://www.github.com/HERIUN)
 * [Junhyun Park](http://www.github.com/jundev1l2l)
 * [Seungeon Baek](http://www.github.com/SeungeonBaek)
 * [Wonho Lee](http://www.github.com/lee-wonho)
 * Soohan Kang
 * Jiae Lee
-* [Jihyeok Choi](http://www.github.com/bluesaurus2)
 * [Jungyeon Lee](http://www.github.com/curieuxjy)
 * [Kangbeen Ko](http://www.github.com/KevinTheRainmaker)
 * [Wonwoo Choi](http://www.github.com/deepwonwoo)
