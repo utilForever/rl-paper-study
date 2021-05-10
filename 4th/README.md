@@ -12,12 +12,12 @@ Date | Paper | Presenter | Links
 4/26 | Generating Text with Deep Reinforcement Learning, H. Guo et al, 2015. | Wonho Lee | [[paper]](https://arxiv.org/abs/1510.09202) [[review]](./210426%20-%20Generating%20Text%20with%20Deep%20Reinforcement%20Learning%2C%20H.%20Guo%20et%20al%2C%202015.pdf)
 5/3 | Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, T. Haarnoja et al, 2018. | Soohan Kang | [[paper]](https://arxiv.org/abs/1801.01290) [[review]](./210503%20-%20Soft%20Actor-Critic%20Off-Policy%20Maximum%20Entropy%20Deep%20Reinforcement%20Learning%20with%20a%20Stochastic%20Actor%2C%20T.%20Haarnoja%20et%20al%2C%202018.pdf)
 5/10 | Randomized Ensembled Double Q-Learning: Learning Fast Without a Model, X. Chen et al, 2021. | Jungyeon Lee | [[paper]](https://arxiv.org/abs/2101.05982) [review]
-5/10 | Human-Level Control through Deep Reinforcement Learning, Mnih et al. 2015. | Kangbeen Ko | [[paper]](https://www.nature.com/articles/nature14236?wm=book_wap_0005) [review]
 5/17 | Proximal Policy Optimization Algorithms, J. Schulman et al, 2017. | Wonwoo Choi | [[paper]](https://arxiv.org/abs/1707.06347) [review]
 5/17 | Continuous Control with Deep Reinforcement Learning, TP. Lillicrap et al, 2015. | Bongseok Kim | [[paper]](https://arxiv.org/abs/1509.02971) [review]
 5/24 | Demand-Aware Career Path Recommendations: A Reinforcement Learning Approach, M. Kokkodis et al, 2020. | Minkyu Shin | [[paper]](https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2020.3727) [review]
 5/24 | Deep Reinforcement Learning for Dialogue Generation, J. Li et al, 2016. | Daejin Jo | [[paper]](https://arxiv.org/abs/1606.01541) [review]
 5/31 | Distributional Reinforcement Learning with Quantile Regression, W. Dabney et al, 2017. | Jiae Lee | [[paper]](https://arxiv.org/abs/1710.10044) [review]
+5/31 | Human-Level Control through Deep Reinforcement Learning, Mnih et al. 2015. | Kangbeen Ko | [[paper]](https://www.nature.com/articles/nature14236?wm=book_wap_0005) [review]
 
 ### Study Member
 
