@@ -15,7 +15,7 @@ Date | Paper | Presenter | Links
 5/17 | Efficient Hyperparameters Optimization Through Model-based Reinforcement Learning and Meta-Learning, J. Wu et al, 2020. | Wonwoo Choi | [[paper]](https://ieeexplore.ieee.org/abstract/document/9408061) [[review]](./210517%20-%20Efficient%20Hyperparameters%20Optimization%20Through%20Model-based%20Reinforcement%20Learning%20and%20Meta-Learning%2C%20J.%20Wu%20et%20al%2C%202020.pdf)
 5/17 | Continuous Control with Deep Reinforcement Learning, TP. Lillicrap et al, 2015. | Bongseok Kim | [[paper]](https://arxiv.org/abs/1509.02971) [[review]](./210517%20-%20Continuous%20Control%20with%20Deep%20Reinforcement%20Learning%2C%20TP.%20Lillicrap%20et%20al%2C%202015.pdf)
 5/24 | Demand-Aware Career Path Recommendations: A Reinforcement Learning Approach, M. Kokkodis et al, 2020. | Minkyu Shin | [[paper]](https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2020.3727) [review]
-5/24 | Deep Reinforcement Learning for Dialogue Generation, J. Li et al, 2016. | Daejin Jo | [[paper]](https://arxiv.org/abs/1606.01541) [review]
+5/24 | TBA | Daejin Jo | [paper] [review]
 5/31 | Distributional Reinforcement Learning with Quantile Regression, W. Dabney et al, 2017. | Jiae Lee | [[paper]](https://arxiv.org/abs/1710.10044) [review]
 5/31 | Human-Level Control through Deep Reinforcement Learning, Mnih et al. 2015. | Kangbeen Ko | [[paper]](https://www.nature.com/articles/nature14236?wm=book_wap_0005) [review]
 
