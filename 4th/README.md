@@ -16,8 +16,6 @@ Date | Paper | Presenter | Links
 5/17 | Continuous Control with Deep Reinforcement Learning, TP. Lillicrap et al, 2015. | Bongseok Kim | [[paper]](https://arxiv.org/abs/1509.02971) [[review]](./210517%20-%20Continuous%20Control%20with%20Deep%20Reinforcement%20Learning%2C%20TP.%20Lillicrap%20et%20al%2C%202015.pdf)
 5/24 | Demand-Aware Career Path Recommendations: A Reinforcement Learning Approach, M. Kokkodis et al, 2020. | Minkyu Shin | [[paper]](https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2020.3727) [review]
 5/24 | TBA | Daejin Jo | [paper] [review]
-5/31 | Distributional Reinforcement Learning with Quantile Regression, W. Dabney et al, 2017. | Jiae Lee | [[paper]](https://arxiv.org/abs/1710.10044) [review]
-5/31 | Human-Level Control through Deep Reinforcement Learning, Mnih et al. 2015. | Kangbeen Ko | [[paper]](https://www.nature.com/articles/nature14236?wm=book_wap_0005) [review]
 
 ### Study Member
 
@@ -30,9 +28,7 @@ Date | Paper | Presenter | Links
 * [Seungeon Baek](http://www.github.com/SeungeonBaek)
 * [Wonho Lee](http://www.github.com/lee-wonho)
 * Soohan Kang
-* Jiae Lee
 * [Jungyeon Lee](http://www.github.com/curieuxjy)
-* [Kangbeen Ko](http://www.github.com/KevinTheRainmaker)
 * [Wonwoo Choi](http://www.github.com/deepwonwoo)
 * Bongseok Kim
 * Minkyu Shin
