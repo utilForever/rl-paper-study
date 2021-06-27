@@ -22,10 +22,18 @@ Date | Paper | Presenter | Links
 ### Study Member
 
 * [Chris Ohk](http://www.github.com/utilForever)
-* [Hansol Kang](http://www.github.com/OnesoulKang)
-* [Donggu Kang](http://www.github.com/HERIUN)
-* [Seungeon Baek](http://www.github.com/SeungeonBaek)
-* [Wonho Lee](http://www.github.com/lee-wonho)
-* Soohan Kang
-* Bongseok Kim
 * [Daejin Jo](http://www.github.com/twidddj)
+* Soohan Kang
+* [Hansol Kang](http://www.github.com/OnesoulKang)
+* [Wonho Lee](http://www.github.com/lee-wonho)
+* [Ian Lee](http://www.github.com/rl-max)
+* [Dokyoon Yoon](http://www.github.com/ERU1206)
+* Taejun Park
+* [Tyler Kim](http://www.github.com/tylertaewook)
+* [Donggu Kang](http://www.github.com/HERIUN)
+* [Dongyoung Kim](http://www.github.com/kingdy2002)
+* Bongseok Kim
+* [Jiho Yeo](http://www.github.com/jihoyeo)
+* [Changman Park](http://www.github.com/andy0124)
+* [Seungeon Baek](http://www.github.com/SeungeonBaek)
+* Sungshin Kim
