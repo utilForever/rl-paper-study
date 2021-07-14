@@ -4,8 +4,8 @@ Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
 7/5 | Multi-Agent Cooperation and the Emergence of (Natural) Language, A. Lazaridou et al, 2016. | Daejin Jo | [[paper]](https://arxiv.org/abs/1612.07182) [[review]](./210705%20-%20Multi-Agent%20Cooperation%20and%20the%20Emergence%20of%20(Natural)%20Language%2C%20A.%20Lazaridou%20et%20al%2C%202016.pdf)
 7/5 | Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, C. Finn et al, 2017. | Soohan Kang | [[paper]](https://arxiv.org/abs/1703.03400) [[review]](./210705%20-%20Model-Agnostic%20Meta-Learning%20for%20Fast%20Adaptation%20of%20Deep%20Networks%2C%20C.%20Finn%20et%20al%2C%202017.pdf)
-7/12 | Learning a Contact-Adaptive Controller for Robust, Efficient Legged Locomotion, X. Da et al, 2020. | Hansol Kang | [[paper]](https://arxiv.org/abs/2009.10019) [review]
-7/12 | Reinforcement Learning with Unsupervised Auxiliary Tasks, M. Jaderberg et al, 2016. | Wonho Lee | [[paper]](https://arxiv.org/abs/1611.05397) [review]
+7/12 | Learning a Contact-Adaptive Controller for Robust, Efficient Legged Locomotion, X. Da et al, 2020. | Hansol Kang | [[paper]](https://arxiv.org/abs/2009.10019) [[review]](./210712%20-%20Learning%20a%20Contact-Adaptive%20Controller%20for%20Robust%2C%20Efficient%20Legged%20Locomotion%2C%20X.%20Da%20et%20al%2C%202020.pdf)
+7/12 | Reinforcement Learning with Unsupervised Auxiliary Tasks, M. Jaderberg et al, 2016. | Wonho Lee | [[paper]](https://arxiv.org/abs/1611.05397) [[review]](./210712%20-%20Reinforcement%20Learning%20with%20Unsupervised%20Auxiliary%20Tasks%2C%20M.%20Jaderberg%20et%20al%2C%202016.pdf)
 7/19 | Distributional Reinforcement Learning with Quantile Regression, W. Dabney et al, 2017. | Ian Lee | [[paper]](https://arxiv.org/abs/1710.10044) [review]
 7/19 | Evolving Reinforcement Learning Algorithms, JD. Co-Reyes et al, 2021. | Chris Ohk | [[paper]](https://arxiv.org/abs/2101.03958) [review]
 7/26 | Deep Counterfactual Regret Minimization, N. Brown et al, 2018. | Dokyoon Yoon | [[paper]](https://arxiv.org/abs/1811.00164) [review]
