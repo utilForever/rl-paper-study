@@ -7,10 +7,9 @@ Date | Paper | Presenter | Links
 7/12 | Learning a Contact-Adaptive Controller for Robust, Efficient Legged Locomotion, X. Da et al, 2020. | Hansol Kang | [[paper]](https://arxiv.org/abs/2009.10019) [[review]](./210712%20-%20Learning%20a%20Contact-Adaptive%20Controller%20for%20Robust%2C%20Efficient%20Legged%20Locomotion%2C%20X.%20Da%20et%20al%2C%202020.pdf)
 7/12 | Reinforcement Learning with Unsupervised Auxiliary Tasks, M. Jaderberg et al, 2016. | Wonho Lee | [[paper]](https://arxiv.org/abs/1611.05397) [[review]](./210712%20-%20Reinforcement%20Learning%20with%20Unsupervised%20Auxiliary%20Tasks%2C%20M.%20Jaderberg%20et%20al%2C%202016.pdf)
 7/19 | Distributional Reinforcement Learning with Quantile Regression, W. Dabney et al, 2017. | Ian Lee | [[paper]](https://arxiv.org/abs/1710.10044) [review]
-7/19 | Evolving Reinforcement Learning Algorithms, JD. Co-Reyes et al, 2021. | Chris Ohk | [[paper]](https://arxiv.org/abs/2101.03958) [review]
 7/26 | Combining Deep Reinforcement Learning and Search for Imperfect-Information Games, N. Brown et al, 2020. | Dokyoon Yoon | [[paper]](https://arxiv.org/abs/2007.13544) [review]
 7/26 | G-Learner and GIRL: Goal Based Wealth Management with Reinforcement Learning, M. Dixon et al, 2020. | Taejun Park | [[paper]](https://arxiv.org/abs/2002.10990) [review]
-8/2 | Addressing Function Approximation Error in Actor-Critic Methods, S. Fujimoto et al, 2018. | Tyler Kim | [[paper]](https://arxiv.org/abs/1802.09477) [review]
+8/2 | Evolving Reinforcement Learning Algorithms, JD. Co-Reyes et al, 2021. | Chris Ohk | [[paper]](https://arxiv.org/abs/2101.03958) [review]
 8/2 | RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning, Y. Duan et al, 2016. | Donggu Kang | [[paper]](https://arxiv.org/abs/1611.02779) [review]
 8/9 | QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning, T. Rashid et al, 2018. | Dongyoung Kim | [[paper]](https://arxiv.org/abs/1803.11485) [review]
 8/9 | Proximal Policy Optimization Algorithms, J. Schulman et al, 2017. | Bongseok Kim | [[paper]](https://arxiv.org/abs/1707.06347) [review]
@@ -30,7 +29,6 @@ TBA | Decision Transformer: Reinforcement Learning via Sequence Modeling, L. Che
 * [Ian Lee](http://www.github.com/rl-max)
 * [Dokyoon Yoon](http://www.github.com/ERU1206)
 * Taejun Park
-* [Tyler Kim](http://www.github.com/tylertaewook)
 * [Donggu Kang](http://www.github.com/HERIUN)
 * [Dongyoung Kim](http://www.github.com/kingdy2002)
 * Bongseok Kim
