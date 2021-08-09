@@ -12,11 +12,11 @@ Date | Paper | Presenter | Links
 8/2 | Evolving Reinforcement Learning Algorithms, JD. Co-Reyes et al, 2021. | Chris Ohk | [[paper]](https://arxiv.org/abs/2101.03958) [[review]](./210802%20-%20Evolving%20Reinforcement%20Learning%20Algorithms%2C%20JD.%20Co-Reyes%20et%20al%2C%202021.pdf)
 8/2 | RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning, Y. Duan et al, 2016. | Donggu Kang | [[paper]](https://arxiv.org/abs/1611.02779) [[review]](./210802%20-%20RL%5E2%2C%20Fast%20Reinforcement%20Learning%20via%20Slow%20Reinforcement%20Learning%2C%20Y.%20Duan%20et%20al%2C%202016.pdf)
 8/9 | QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning, T. Rashid et al, 2018. | Dongyoung Kim | [[paper]](https://arxiv.org/abs/1803.11485) [review]
-8/9 | Proximal Policy Optimization Algorithms, J. Schulman et al, 2017. | Bongseok Kim | [[paper]](https://arxiv.org/abs/1707.06347) [review]
 8/23 | Graph Neural Network Reinforcement Learning for Autonomous Mobility-on-Demand Systems, D. Gammelli et al, 2021. | Jiho Yeo | [[paper]](https://arxiv.org/abs/2104.11434) [review]
 8/23 | Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, T. Haarnoja et al, 2018. | Changman Park | [[paper]](https://arxiv.org/abs/1801.01290) [review]
 8/30 | Smooth Exploration for Robotic Reinforcement Learning, A. Raffin et al, 2021. | Seungeon Baek | [[paper]](https://arxiv.org/abs/2005.05719v2) [review]
 8/30 | Prefrontal Cortex as a Meta-Reinforcement Learning System, JX. Wang et al, 2018. | Sungshin Kim | [[paper]](https://www.nature.com/articles/s41593-018-0147-8) [review]
+TBA | Proximal Policy Optimization Algorithms, J. Schulman et al, 2017. | Bongseok Kim | [[paper]](https://arxiv.org/abs/1707.06347) [review]
 TBA | Decision Transformer: Reinforcement Learning via Sequence Modeling, L. Chen et al, 2021. | Chris Ohk | [[paper]](https://arxiv.org/abs/2106.01345) [review]
 
 ### Study Member
