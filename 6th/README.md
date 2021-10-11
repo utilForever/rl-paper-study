@@ -23,4 +23,19 @@ Date | Paper | Presenter | Links
 
 ### Study Member
 
-TBA
+* [Chris Ohk](http://www.github.com/utilForever)
+* [Daejin Jo](http://www.github.com/twidddj)
+* Taejun Park
+* Chanho Lee
+* [Dongyoung Kim](http://www.github.com/kingdy2002)
+* [Donggu Kang](http://www.github.com/HERIUN)
+* [Junhwan Kim](http://www.github.com/gimpal)
+* [Yunho Kim](http://www.github.com/awesomericky)
+* [Dokyoon Yoon](http://www.github.com/ERU1206)
+* [Seungeon Baek](http://www.github.com/SeungeonBaek)
+* [Hyogeun Park](http://www.github.com/SeungeonBaek)
+* Sungho Kang
+* [Changman Park](http://www.github.com/andy0124)
+* [Bongseok Kim](http://www.github.com/a2868740)
+* [Jiho Yeo](http://www.github.com/jihoyeo)
+* [Hansol Kang](http://www.github.com/OnesoulKang)
