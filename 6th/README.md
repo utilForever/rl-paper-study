@@ -2,7 +2,7 @@
 
 Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
-10/11 | Exploration by Random Network Distillation, Y. Bruda et al, 2018. | Daejin Jo | [[paper]](https://arxiv.org/abs/1810.12894) [review]
+10/11 | Exploration by Random Network Distillation, Y. Bruda et al, 2018. | Daejin Jo | [[paper]](https://arxiv.org/abs/1810.12894) [[review]](./211011%20-%20Exploration%20by%20Random%20Network%20Distillation%2C%20Y.%20Bruda%20et%20al%2C%202018.pdf)
 10/11 | Deep Reinforcement Learning for Automated Stock Trading: Ensemble Strategy, H. Yang et al, 2020. | Taejun Park | [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) [review]
 10/18 | Recommending Cryptocurrency Trading Points with Deep Reinforcement Learning Approach, O. Sattarov et al, 2020. | Chanho Lee | [[paper]](https://www.mdpi.com/2076-3417/10/4/1506) [review]
 10/18 | MetaDrive: Composing Diverse Driving Scenarios for Generalizable Reinforcement Learning, Q. Li et al, 2021. | Chris Ohk | [[paper]](https://arxiv.org/abs/2109.12674) [review]
