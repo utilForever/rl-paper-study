@@ -4,8 +4,8 @@ Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
 10/11 | Exploration by Random Network Distillation, Y. Bruda et al, 2018. | Daejin Jo | [[paper]](https://arxiv.org/abs/1810.12894) [[review]](./211011%20-%20Exploration%20by%20Random%20Network%20Distillation%2C%20Y.%20Bruda%20et%20al%2C%202018.pdf)
 10/11 | Deep Reinforcement Learning for Automated Stock Trading: Ensemble Strategy, H. Yang et al, 2020. | Taejun Park | [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) [review]
-10/18 | Recommending Cryptocurrency Trading Points with Deep Reinforcement Learning Approach, O. Sattarov et al, 2020. | Chanho Lee | [[paper]](https://www.mdpi.com/2076-3417/10/4/1506) [review]
-10/18 | Rainbow: Combining Improvements in Deep Reinforcement Learning, M. Hessel et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/abs/1710.02298) [review]
+10/18 | Recommending Cryptocurrency Trading Points with Deep Reinforcement Learning Approach, O. Sattarov et al, 2020. | Chanho Lee | [[paper]](https://www.mdpi.com/2076-3417/10/4/1506) [[review]](./211018%20-%20Recommending%20Cryptocurrency%20Trading%20Points%20with%20Deep%20Reinforcement%20Learning%20Approach%2C%20O.%20Sattarov%20et%20al%2C%202020.pdf)
+10/18 | Rainbow: Combining Improvements in Deep Reinforcement Learning, M. Hessel et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/abs/1710.02298) [[review]](./211018%20-%20Rainbow%2C%20Combining%20Improvements%20in%20Deep%20Reinforcement%20Learning%2C%20M.%20Hessel%20et%20al%2C%202017.pdf)
 10/25 | Improving Sample Efficiency in Model-Free Reinforcement Learning from Images, D. Yarats et al, 2019. | Dongyoung Kim | [[paper]](https://arxiv.org/abs/1910.01741) [review]
 10/25 | Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning, D. Yarats et al, 2021. | Donggu Kang | [[paper]](https://arxiv.org/abs/2107.09645) [review]
 11/1 | Curiosity-driven Exploration by Self-supervised Prediction, D. Pathak et al, 2017. | Junhwan Kim | [[paper]](https://arxiv.org/abs/1705.05363) [review]
