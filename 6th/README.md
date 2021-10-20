@@ -9,7 +9,7 @@ Date | Paper | Presenter | Links
 10/25 | Improving Sample Efficiency in Model-Free Reinforcement Learning from Images, D. Yarats et al, 2019. | Dongyoung Kim | [[paper]](https://arxiv.org/abs/1910.01741) [review]
 10/25 | Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning, D. Yarats et al, 2021. | Donggu Kang | [[paper]](https://arxiv.org/abs/2107.09645) [review]
 11/1 | Curiosity-driven Exploration by Self-supervised Prediction, D. Pathak et al, 2017. | Junhwan Kim | [[paper]](https://arxiv.org/abs/1705.05363) [review]
-11/1 | Learning Agile and Dynamic Motor Skills for Legged Robots, J. Hwangbo et al, 2019. | Yunho Kim | [[paper]](https://arxiv.org/abs/1901.08652) [review]
+11/1 | BADGR: The Berkeley Autonomous Driving Ground Robot, G. Kahn et al, 2020. | Yunho Kim | [[paper]](https://arxiv.org/abs/2002.05700) [review]
 11/8 | DRN: A Deep Reinforcement Learning Framework for News, G. Zheng et al, 2018. | Dokyoon Yoon | [[paper]](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf) [review]
 11/8 | Neural Combinatorial Optimization with Reinforcement Learning, I. Bello et al, 2016. | Seungeon Baek | [[paper]](https://arxiv.org/abs/1611.09940) [review]
 11/15 | Deep Reinforcement Learning for Trading, Z. Zhang et al, 2019. | Hyogeun Park | [[paper]](https://arxiv.org/abs/1911.10107) [review]
