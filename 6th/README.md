@@ -14,8 +14,8 @@ Date | Paper | Presenter | Links
 11/8 | Neural Combinatorial Optimization with Reinforcement Learning, I. Bello et al, 2016. | Seungeon Baek | [[paper]](https://arxiv.org/abs/1611.09940) [[review]](./211108%20-%20Neural%20Combinatorial%20Optimization%20with%20Reinforcement%20Learning%2C%20I.%20Bello%20et%20al%2C%202016.pdf)
 11/15 | Deep Reinforcement Learning for Trading, Z. Zhang et al, 2019. | Hyogeun Park | [[paper]](https://arxiv.org/abs/1911.10107) [[review]](./211115%20-%20Deep%20Reinforcement%20Learning%20for%20Trading%2C%20Z.%20Zhang%20et%20al%2C%202019.pdf)
 11/15 | Reinforcement Learning for Integer Programming: Learning to Cut, Y. Tang et al, 2019. | Sungho Kang | [[paper]](https://arxiv.org/abs/1906.04859) [[review]](./211115%20-%20Reinforcement%20Learning%20for%20Integer%20Programming%2C%20Learning%20to%20Cut%2C%20Y.%20Tang%20et%20al%2C%202019.pdf)
-11/22 | Decision Transformer: Reinforcement Learning via Sequence Modeling, L. Chen et al, 2021. | Changman Park | [[paper]](https://arxiv.org/abs/2106.01345) [review]
-11/22 | Reward is Enough, D. Silver et al, 2021. | Bongseok Kim | [[paper]](https://deepmind.com/research/publications/2021/Reward-is-Enough) [review]
+11/22 | Decision Transformer: Reinforcement Learning via Sequence Modeling, L. Chen et al, 2021. | Changman Park | [[paper]](https://arxiv.org/abs/2106.01345) [[review]](./211122%20-%20Decision%20Transformer%2C%20Reinforcement%20Learning%20via%20Sequence%20Modeling%2C%20L.%20Chen%20et%20al%2C%202021.pdf)
+11/22 | Reward is Enough, D. Silver et al, 2021. | Bongseok Kim | [[paper]](https://deepmind.com/research/publications/2021/Reward-is-Enough) [[review]](./211122%20-%20Reward%20is%20Enough%2C%20D.%20Silver%20et%20al%2C%202021.pdf)
 11/29 | Toward A Thousand Lights: Decentralized Deep Reinforcement Learning for Large-Scale Traffic Signal Control, C. Chen et al, 2020. | Jiho Yeo | [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5744) [review]
 11/29 | RMA: Rapid Motor Adaptation for Legged Robots, A. Kumar et al, 2021. | Hansol Kang | [[paper]](https://arxiv.org/abs/2107.04034) [review]
 
