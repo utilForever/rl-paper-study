@@ -16,8 +16,8 @@ Date | Paper | Presenter | Links
 11/15 | Reinforcement Learning for Integer Programming: Learning to Cut, Y. Tang et al, 2019. | Sungho Kang | [[paper]](https://arxiv.org/abs/1906.04859) [[review]](./211115%20-%20Reinforcement%20Learning%20for%20Integer%20Programming%2C%20Learning%20to%20Cut%2C%20Y.%20Tang%20et%20al%2C%202019.pdf)
 11/22 | Decision Transformer: Reinforcement Learning via Sequence Modeling, L. Chen et al, 2021. | Changman Park | [[paper]](https://arxiv.org/abs/2106.01345) [[review]](./211122%20-%20Decision%20Transformer%2C%20Reinforcement%20Learning%20via%20Sequence%20Modeling%2C%20L.%20Chen%20et%20al%2C%202021.pdf)
 11/22 | Reward is Enough, D. Silver et al, 2021. | Bongseok Kim | [[paper]](https://deepmind.com/research/publications/2021/Reward-is-Enough) [[review]](./211122%20-%20Reward%20is%20Enough%2C%20D.%20Silver%20et%20al%2C%202021.pdf)
-11/29 | Toward A Thousand Lights: Decentralized Deep Reinforcement Learning for Large-Scale Traffic Signal Control, C. Chen et al, 2020. | Jiho Yeo | [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5744) [review]
-11/29 | RMA: Rapid Motor Adaptation for Legged Robots, A. Kumar et al, 2021. | Hansol Kang | [[paper]](https://arxiv.org/abs/2107.04034) [review]
+11/29 | Toward A Thousand Lights: Decentralized Deep Reinforcement Learning for Large-Scale Traffic Signal Control, C. Chen et al, 2020. | Jiho Yeo | [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5744) [[review]](./211129%20-%20Toward%20A%20Thousand%20Lights%2C%20Decentralized%20Deep%20Reinforcement%20Learning%20for%20Large-Scale%20Traffic%20Signal%20Control%2C%20C.%20Chen%20et%20al%2C%202020.pdf)
+11/29 | RMA: Rapid Motor Adaptation for Legged Robots, A. Kumar et al, 2021. | Hansol Kang | [[paper]](https://arxiv.org/abs/2107.04034) [[review]](./211129%20-%20RMA%2C%20Rapid%20Motor%20Adaptation%20for%20Legged%20Robots%2C%20A.%20Kumar%20et%20al%2C%202021.pdf)
 
 ### Study Member
 
