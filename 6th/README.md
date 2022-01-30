@@ -31,7 +31,7 @@ Date | Paper | Presenter | Links
 * [Yunho Kim](http://www.github.com/awesomericky)
 * [Dokyoon Yoon](http://www.github.com/ERU1206)
 * [Seungeon Baek](http://www.github.com/SeungeonBaek)
-* [Hyogeun Park](http://www.github.com/SeungeonBaek)
+* [Hyogeun Park](http://www.github.com/HyogeunPark93)
 * Sungho Kang
 * [Changman Park](http://www.github.com/andy0124)
 * [Bongseok Kim](http://www.github.com/a2868740)
