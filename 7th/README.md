@@ -4,7 +4,7 @@ Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
 2/7 | Diversity is All You Need: Learning Skills without a Reward Function, B. Eysenbach et al, 2018. | Mark Young | [[paper]](https://arxiv.org/abs/1802.06070) [[review]](http://hugrypiggykim.com/2022/01/27/diayn/)
 2/7 | Maximum a Posteriori Policy Optimisation, A. Abdolmalek et al, 2018. | Daejin Jo | [[paper]](https://arxiv.org/abs/1806.06920) [[review]](./220207%20-%20Maximum%20a%20Posteriori%20Policy%20Optimisation%2C%20A.%20Abdolmalek%20et%20al%2C%202018.pdf)
-2/14 | On the Expressivity of Markov Reward, D. Abel et al, 2021. | Bumjin Park | [[paper]](https://deepmind.com/research/publications/2021/On-the-Expressivity-of-Markov-Reward) [review]
+2/14 | On the Expressivity of Markov Reward, D. Abel et al, 2021. | Bumjin Park | [[paper]](https://deepmind.com/research/publications/2021/On-the-Expressivity-of-Markov-Reward) [[review]](./220214%20-%20On%20the%20Expressivity%20of%20Markov%20Reward%2C%20D.%20Abel%20et%20al%2C%202021.pdf)
 2/21 | Batch Size-invariance for Policy Optimization, J. Hilton et al, 2022. | Chris Ohk | [[paper]](https://arxiv.org/abs/2110.00641) [review]
 2/21 | Policies Modulating Trajectory Generators, A. Iscen et al, 2019. | Hansol Kang | [[paper]](https://arxiv.org/abs/1910.02812) [review]
 2/21 | Playing Atari with Deep Reinforcement Learning, V. Mnih et al, 2013. | Jinsu Kim | [[paper]](https://arxiv.org/abs/1312.5602) [review]
