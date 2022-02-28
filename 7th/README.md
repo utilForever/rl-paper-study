@@ -15,7 +15,7 @@ Date | Paper | Presenter | Links
 3/14 | Online and Offline Reinforcement Learning by Planning with a Learned Model, J. Schrittwieser et al, 2021. | Dokyoon Yoon | [[paper]](https://openreview.net/forum?id=HKtsGW-lNbw) [review]
 3/14 | Phasic Policy Gradient, K. Cobbe et al, 2020. | Sungkwon On | [[paper]](https://arxiv.org/abs/2009.04416) [review]
 3/21 | Recommending Cryptocurrency Trading Points with Deep Reinforcement Learning Approach, O. Sattarov et al, 2020. | Hyogeun Park | [[paper]](https://www.mdpi.com/2076-3417/10/4/1506) [review]
-3/21 | Conservative Q-learning for Offline Reinforcement Learning, A. Kumar et al, 2020. | Hyeonhoon Lee | [[paper]](https://arxiv.org/abs/2006.04779) [review]
+3/21 | A Minimalist Approach to Offline Reinforcement Learning, S. Fujimoto et al, 2021. | Hyeonhoon Lee | [[paper]](https://arxiv.org/abs/2106.06860) [review]
 3/28 | Playtesting in Match 3 Game Using Strategic Plays via Reinforcement Learning, Y. Shin et al, 2020. | Younkyung Jang | [[paper]](https://ieeexplore.ieee.org/document/9034187) [review]
 3/28 | Return-based Scaling: Yet Another Normalisation Trick for Deep RL, T. Schaul et al, 2021. | Bongseok Kim | [[paper]](https://arxiv.org/abs/2105.05347) [review]
 
