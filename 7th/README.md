@@ -9,7 +9,7 @@ Date | Paper | Presenter | Links
 2/21 | Policies Modulating Trajectory Generators, A. Iscen et al, 2019. | Hansol Kang | [[paper]](https://arxiv.org/abs/1910.02812) [[review]](./220221%20-%20Policies%20Modulating%20Trajectory%20Generators%2C%20A.%20Iscen%20et%20al%2C%202019.pdf)
 2/21 | Playing Atari with Deep Reinforcement Learning, V. Mnih et al, 2013. | Jinsu Kim | [[paper]](https://arxiv.org/abs/1312.5602) [[review]](./220221%20-%20Playing%20Atari%20with%20Deep%20Reinforcement%20Learning%2C%20V.%20Mnih%20et%20al%2C%202013.pdf)
 2/28 | Automated Reinforcement Learning (AutoRL): A Survey and Open Problems, J. Parker-Holder et al, 2022. | Donggu Kang | [[paper]](https://arxiv.org/abs/2201.03916) [review]
-2/28 | Demand-responsive Rebalancing Zone Generation for Reinforcement Learning-based On-demand Mobility, A. Castagna et al, 2021. | Jiho Yeo | [[paper]](https://content.iospress.com/articles/ai-communications/aic201575) [review]
+2/28 | IPDALight: Intensity- and phase duration-aware traffic signal control based on Reinforcement Learning, W. Zhao et al, 2021. | Jiho Yeo | [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1383762121002587) [review]
 3/7 | Recent Advances in Reinforcement Learning in Finance, B. Hambly et al, 2021. | Taejun Park | [[paper]](https://arxiv.org/abs/2112.04553) [review]
 3/7 | Parametrized Deep Q-Network Learning: RL with Discrete-Continuous Hybrid Action Space, J. Xiong et al, 2018. | Seungeon Baek | [[paper]](https://arxiv.org/abs/1810.06394) [review]
 3/14 | Online and Offline Reinforcement Learning by Planning with a Learned Model, J. Schrittwieser et al, 2021. | Dokyoon Yoon | [[paper]](https://openreview.net/forum?id=HKtsGW-lNbw) [review]
