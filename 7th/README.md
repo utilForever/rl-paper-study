@@ -13,7 +13,7 @@ Date | Paper | Presenter | Links
 3/7 | Recent Advances in Reinforcement Learning in Finance, B. Hambly et al, 2021. | Taejun Park | [[paper]](https://arxiv.org/abs/2112.04553) [review]
 3/7 | Parametrized Deep Q-Network Learning: RL with Discrete-Continuous Hybrid Action Space, J. Xiong et al, 2018. | Seungeon Baek | [[paper]](https://arxiv.org/abs/1810.06394) [review]
 3/14 | Online and Offline Reinforcement Learning by Planning with a Learned Model, J. Schrittwieser et al, 2021. | Dokyoon Yoon | [[paper]](https://openreview.net/forum?id=HKtsGW-lNbw) [review]
-3/14 | Towards Mental Time Travel: A Hierarchical Memory for Reinforcement Learning Agents, AK. Lampinen et al, 2021. | Sungkwon On | [[paper]](https://deepmind.com/research/publications/2021/Towards-mental-time-travel-a-hierarchical-memory-for-reinforcement-learning-agents) [review]
+3/14 | Phasic Policy Gradient, K. Cobbe et al, 2020. | Sungkwon On | [[paper]](https://arxiv.org/abs/2009.04416) [review]
 3/21 | Recommending Cryptocurrency Trading Points with Deep Reinforcement Learning Approach, O. Sattarov et al, 2020. | Hyogeun Park | [[paper]](https://www.mdpi.com/2076-3417/10/4/1506) [review]
 3/21 | Conservative Q-learning for Offline Reinforcement Learning, A. Kumar et al, 2020. | Hyeonhoon Lee | [[paper]](https://arxiv.org/abs/2006.04779) [review]
 3/28 | Playtesting in Match 3 Game Using Strategic Plays via Reinforcement Learning, Y. Shin et al, 2020. | Younkyung Jang | [[paper]](https://ieeexplore.ieee.org/document/9034187) [review]
