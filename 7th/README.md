@@ -15,9 +15,9 @@ Date | Paper | Presenter | Links
 3/14 | Reverb: A Framework For Experience Replay, A. Cassirer et al, 2021. | Dokyoon Yoon | [[paper]](https://arxiv.org/abs/2102.04736) [[review]](./220314%20-%20Reverb%2C%20A%20Framework%20For%20Experience%20Replay%2C%20A.%20Cassirer%20et%20al%2C%202021.pdf)
 3/14 | Phasic Policy Gradient, K. Cobbe et al, 2020. | Sungkwon On | [[paper]](https://arxiv.org/abs/2009.04416) [[review]](./220314%20-%20Phasic%20Policy%20Gradient%2C%20K.%20Cobbe%20et%20al%2C%202020.pdf)
 3/21 | A Minimalist Approach to Offline Reinforcement Learning, S. Fujimoto et al, 2021. | Hyeonhoon Lee | [[paper]](https://arxiv.org/abs/2106.06860) [[review]](./220321%20-%20A%20Minimalist%20Approach%20to%20Offline%20Reinforcement%20Learning%2C%20S.%20Fujimoto%20et%20al%2C%202021.pdf)
-3/28 | Generative Design by Using Exploration Approaches of Reinforcement Learning in Density-Based Structural Topology Optimization, H. Sun et al, 2020. | Hyogeun Park | [[paper]](https://www.mdpi.com/2411-9660/4/2/10/htm) [review]
-3/28 | Playtesting in Match 3 Game Using Strategic Plays via Reinforcement Learning, Y. Shin et al, 2020. | Younkyung Jang | [[paper]](https://ieeexplore.ieee.org/document/9034187) [review]
-3/28 | Return-based Scaling: Yet Another Normalisation Trick for Deep RL, T. Schaul et al, 2021. | Bongseok Kim | [[paper]](https://arxiv.org/abs/2105.05347) [review]
+3/28 | Generative Design by Using Exploration Approaches of Reinforcement Learning in Density-Based Structural Topology Optimization, H. Sun et al, 2020. | Hyogeun Park | [[paper]](https://www.mdpi.com/2411-9660/4/2/10/htm) [[review]](./220328%20-%20Generative%20Design%20by%20Using%20Exploration%20Approaches%20of%20Reinforcement%20Learning%20in%20Density-Based%20Structural%20Topology%20Optimization%2C%20H.%20Sun%20et%20al%2C%202020.pdf)
+3/28 | Playtesting in Match 3 Game Using Strategic Plays via Reinforcement Learning, Y. Shin et al, 2020. | Younkyung Jang | [[paper]](https://ieeexplore.ieee.org/document/9034187) [[review]](./220328%20-%20Playtesting%20in%20Match%203%20Game%20Using%20Strategic%20Plays%20via%20Reinforcement%20Learning%2C%20Y.%20Shin%20et%20al%2C%202020.pdf)
+3/28 | Return-based Scaling: Yet Another Normalisation Trick for Deep RL, T. Schaul et al, 2021. | Bongseok Kim | [[paper]](https://arxiv.org/abs/2105.05347) [[review]](./220328%20-%20Return-based%20Scaling%2C%20Yet%20Another%20Normalisation%20Trick%20for%20Deep%20RL%2C%20T.%20Schaul%20et%20al%2C%202021.pdf)
 
 ### Study Member
 
