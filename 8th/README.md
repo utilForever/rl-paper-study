@@ -2,12 +2,6 @@
 
 Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
-5/2 | TBA | TBA | [paper] [review]
-5/2 | TBA | TBA | [paper] [review]
-5/9 | TBA | TBA | [paper] [review]
-5/9 | TBA | TBA | [paper] [review]
-5/16 | TBA | TBA | [paper] [review]
-5/16 | TBA | TBA | [paper] [review]
 5/23 | TBA | TBA | [paper] [review]
 5/23 | TBA | TBA | [paper] [review]
 5/30 | TBA | TBA | [paper] [review]
@@ -18,6 +12,12 @@ Date | Paper | Presenter | Links
 6/20 | TBA | TBA | [paper] [review]
 6/27 | TBA | TBA | [paper] [review]
 6/27 | TBA | TBA | [paper] [review]
+7/4 | TBA | TBA | [paper] [review]
+7/4 | TBA | TBA | [paper] [review]
+7/11 | TBA | TBA | [paper] [review]
+7/11 | TBA | TBA | [paper] [review]
+7/18 | TBA | TBA | [paper] [review]
+7/18 | TBA | TBA | [paper] [review]
 
 ### Study Member
 
