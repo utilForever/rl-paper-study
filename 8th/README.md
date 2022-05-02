@@ -18,6 +18,8 @@ Date | Paper | Presenter | Links
 7/11 | TBA | TBA | [paper] [review]
 7/18 | TBA | TBA | [paper] [review]
 7/18 | TBA | TBA | [paper] [review]
+7/25 | TBA | TBA | [paper] [review]
+7/25 | TBA | TBA | [paper] [review]
 
 ### Study Member
 
