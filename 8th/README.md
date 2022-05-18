@@ -23,4 +23,21 @@ Date | Paper | Presenter | Links
 
 ### Study Member
 
-TBA
+* [Chris Ohk](http://www.github.com/utilForever)
+* [Mark Young](http://www.github.com/tylee33)
+* Taejun Park
+* [Doyun Kim](http://www.github.com/qelloman)
+* [Seungeon Baek](http://www.github.com/SeungeonBaek)
+* Yonghae Kim
+* [Daejin Jo](http://www.github.com/twidddj)
+* [Seungje Yoon](http://www.github.com/sjYoondeltar)
+* [Dohyun Kim](http://www.github.com/kimdo331)
+* Beomsuk Park
+* Jinsoo Kim
+* [Seonghak Hong](http://www.github.com/hong-sh)
+* [Dokyoon Yoon](http://www.github.com/ERU1206)
+* Sungkwon On
+* [Jiho Yeo](http://www.github.com/jihoyeo)
+* [Hyeonhoon Lee](http://www.github.com/HyeonhoonLee)
+* [Donggu Kang](http://www.github.com/HERIUN)
+* [Sohyeon Yim](http://www.github.com/sohyunwriter)
