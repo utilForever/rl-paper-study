@@ -2,8 +2,8 @@
 
 Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
-5/23 | Mutual Information State Intrinsic Control, R. Zhao et al, 2021. | Mark Young | [[paper]](https://arxiv.org/abs/2103.08107) [review]
-5/23 | A Reinforcement Learning Algorithm for The 2D-rectangular Strip Packing Problem, X. Zhao et al, 2022. | Taejun Park | [[paper]](https://iopscience.iop.org/article/10.1088/1742-6596/2181/1/012002) [review]
+5/23 | Mutual Information State Intrinsic Control, R. Zhao et al, 2021. | Mark Young | [[paper]](https://arxiv.org/abs/2103.08107) [[review]](https://hugrypiggykim.com/2022/05/10/music-mutual-information-state-intrinsic-control/)
+5/23 | A Reinforcement Learning Algorithm for The 2D-rectangular Strip Packing Problem, X. Zhao et al, 2022. | Taejun Park | [[paper]](https://iopscience.iop.org/article/10.1088/1742-6596/2181/1/012002) [[review]](./220523%20-%20A%20Reinforcement%20Learning%20Algorithm%20for%20The%202D-rectangular%20Strip%20Packing%20Problem%2C%20X.%20Zhao%20et%20al%2C%202022.pdf)
 5/30 | Explainable Reinforcement Learning: A Survey, E. Puiutta et al, 2020. | Doyun Kim | [[paper]](https://arxiv.org/abs/2005.06247) [review]
 5/30 | Implicit Distributional Reinforcement Learning, Y. Yue et al, 2020. | Seungeon Baek | [[paper]](https://arxiv.org/abs/2007.06159) [review]
 6/13 | Implementation of Rainbow: Combining Improvements in Deep Reinforcement Learning, M. Hessel et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/abs/1710.02298) [review]
