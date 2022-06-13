@@ -6,10 +6,10 @@ Date | Paper | Presenter | Links
 5/23 | A Reinforcement Learning Algorithm for The 2D-rectangular Strip Packing Problem, X. Zhao et al, 2022. | Taejun Park | [[paper]](https://iopscience.iop.org/article/10.1088/1742-6596/2181/1/012002) [[review]](./220523%20-%20A%20Reinforcement%20Learning%20Algorithm%20for%20The%202D-rectangular%20Strip%20Packing%20Problem%2C%20X.%20Zhao%20et%20al%2C%202022.pdf)
 5/30 | Explainable Reinforcement Learning: A Survey, E. Puiutta et al, 2020. | Doyun Kim | [[paper]](https://arxiv.org/abs/2005.06247) [[review]](./220530%20-%20Explainable%20Reinforcement%20Learning%2C%20A%20Survey%2C%20E.%20Puiutta%20et%20al%2C%202020.pdf)
 5/30 | Implicit Distributional Reinforcement Learning, Y. Yue et al, 2020. | Seungeon Baek | [[paper]](https://arxiv.org/abs/2007.06159) [[review]](./220530%20-%20Implicit%20Distributional%20Reinforcement%20Learning%2C%20Y.%20Yue%20et%20al%2C%202020.pdf)
-6/13 | Implementation of Rainbow: Combining Improvements in Deep Reinforcement Learning, M. Hessel et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/abs/1710.02298) [review]
+6/13 | Offline Reinforcement Learning as One Big Sequence Modeling Problem, M. Janner et al, 2021. | Seungje Yoon | [[paper]](https://arxiv.org/abs/2106.02039) [review]
 6/13 | Optimization of Global Production Scheduling with Deep Reinforcement Learning, B. Waschneck et al, 2018. | Yonghae Kim | [[paper]](https://www.sciencedirect.com/science/article/pii/S221282711830372X) [review]
 6/20 | On Learning Intrinsic Rewards for Policy Gradient Methods, Z. Zheng et al, 2018. | Daejin Jo | [[paper]](https://arxiv.org/abs/1804.06459) [review]
-6/20 | Offline Reinforcement Learning as One Big Sequence Modeling Problem, M. Janner et al, 2021. | Seungje Yoon | [[paper]](https://arxiv.org/abs/2106.02039) [review]
+6/20 | Implementation of Rainbow: Combining Improvements in Deep Reinforcement Learning, M. Hessel et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/abs/1710.02298) [review]
 6/27 | Implementation of Battlesnake Challenge: A Multi-agent Reinforcement Learning Playground with Human-in-the-loop | Dohyun Kim | [[paper]](https://arxiv.org/abs/2007.10504) [review]
 6/27 | Molecular De-novo Design through Deep Reinforcement Learning, M. Olivecrona et al, 2017. | Beomsuk Park | [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-017-0235-x) [review]
 7/4 | Magnetic Control of Tokamak Plasmas through Deep Reinforcement Learning, J. Degrave et al, 2022. | Jinsoo Kim | [[paper]](https://www.nature.com/articles/s41586-021-04301-9) [review]
