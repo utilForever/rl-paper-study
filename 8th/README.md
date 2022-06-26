@@ -9,7 +9,7 @@ Date | Paper | Presenter | Links
 6/13 | Offline Reinforcement Learning as One Big Sequence Modeling Problem, M. Janner et al, 2021. | Seungje Yoon | [[paper]](https://arxiv.org/abs/2106.02039) [[review]](./220613%20-%20Offline%20Reinforcement%20Learning%20as%20One%20Big%20Sequence%20Modeling%20Problem%2C%20M.%20Janner%20et%20al%2C%202021.pdf)
 6/13 | Optimization of Global Production Scheduling with Deep Reinforcement Learning, B. Waschneck et al, 2018. | Yonghae Kim | [[paper]](https://www.sciencedirect.com/science/article/pii/S221282711830372X) [[review]](./220613%20-%20Optimization%20of%20Global%20Production%20Scheduling%20with%20Deep%20Reinforcement%20Learning%2C%20B.%20Waschneck%20et%20al%2C%202018.pdf)
 6/20 | On Learning Intrinsic Rewards for Policy Gradient Methods, Z. Zheng et al, 2018. | Daejin Jo | [[paper]](https://arxiv.org/abs/1804.06459) [review]
-6/20 | Implementation of Rainbow: Combining Improvements in Deep Reinforcement Learning, M. Hessel et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/abs/1710.02298) [review]
+6/20 | Implementation of Implicit Distributional Reinforcement Learning, Y. Yue et al, 2020. | Seungeon Baek | [[paper]](https://arxiv.org/abs/2007.06159) [review]
 6/27 | Implementation of Battlesnake Challenge: A Multi-agent Reinforcement Learning Playground with Human-in-the-loop | Dohyun Kim | [[paper]](https://arxiv.org/abs/2007.10504) [review]
 6/27 | Molecular De-novo Design through Deep Reinforcement Learning, M. Olivecrona et al, 2017. | Beomsuk Park | [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-017-0235-x) [review]
 7/4 | Magnetic Control of Tokamak Plasmas through Deep Reinforcement Learning, J. Degrave et al, 2022. | Jinsoo Kim | [[paper]](https://www.nature.com/articles/s41586-021-04301-9) [review]
@@ -20,6 +20,7 @@ Date | Paper | Presenter | Links
 7/18 | Development and Validation of a Reinforcement Learning Algorithm to Dynamically Optimize Mechanical Ventilation in Critical Care, A. Peine et al, 2021. | Hyeonhoon Lee | [[paper]](https://www.nature.com/articles/s41746-021-00388-6) [review]
 7/25 | Implementation of Addressing Function Approximation Error in Actor-Critic Methods, S. Fujimoto et al, 2018. | Donggu Kang | [[paper]](https://arxiv.org/abs/1802.09477) [review]
 7/25 | Language Understanding for Text-based Games Using Deep Reinforcement Learning, K. Narasimhan et al, 2015. | Sohyeon Yim | [[paper]](https://arxiv.org/abs/1506.08941) [review]
+TBD | Implementation of Rainbow: Combining Improvements in Deep Reinforcement Learning, M. Hessel et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/abs/1710.02298) [review]
 
 ### Study Member
 
