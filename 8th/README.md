@@ -13,7 +13,7 @@ Date | Paper | Presenter | Links
 6/27 | Implementation of Battlesnake Challenge: A Multi-agent Reinforcement Learning Playground with Human-in-the-loop | Dohyun Kim | [[paper]](https://arxiv.org/abs/2007.10504) [review]
 6/27 | Molecular De-novo Design through Deep Reinforcement Learning, M. Olivecrona et al, 2017. | Beomsuk Park | [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-017-0235-x) [review]
 7/4 | Magnetic Control of Tokamak Plasmas through Deep Reinforcement Learning, J. Degrave et al, 2022. | Jinsoo Kim | [[paper]](https://www.nature.com/articles/s41586-021-04301-9) [review]
-7/4 | Sub-policy Adaptation for Hierarchical Reinforcement Learning, AC. Li et al, 2019. | Seonghak Hong | [[paper]](https://arxiv.org/abs/1906.05862) [review](./220704%20-%20Sub-policy%20Adaptation%20for%20Hierarchical%20Reinforcement%20Learning.pdf)
+7/4 | Sub-policy Adaptation for Hierarchical Reinforcement Learning, AC. Li et al, 2019. | Seonghak Hong | [[paper]](https://arxiv.org/abs/1906.05862) [[review]](./220704%20-%20Sub-policy%20Adaptation%20for%20Hierarchical%20Reinforcement%20Learning.pdf)
 7/11 | A Generalist Agent, S. Reed et al, 2022. | Dokyoon Yoon | [[paper]](https://arxiv.org/abs/2205.06175) [review]
 7/11 | Implementation of Phasic Policy Gradient, K. Cobbe et al, 2020. | Sungkwon On | [[paper]](https://arxiv.org/abs/2009.04416) [review]
 7/18 | Implementation of IPDALight: Intensity- and Phase Duration-aware Traffic Signal Control based on Reinforcement Learning, W. Zhao et al, 2021. | Jiho Yeo | [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1383762121002587) [review]
