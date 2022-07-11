@@ -15,9 +15,9 @@ Date | Paper | Presenter | Links
 7/4 | Magnetic Control of Tokamak Plasmas through Deep Reinforcement Learning, J. Degrave et al, 2022. | Jinsoo Kim | [[paper]](https://www.nature.com/articles/s41586-021-04301-9) [[review]](./220704%20-%20Magnetic%20Control%20of%20Tokamak%20Plasmas%20through%20Deep%20Reinforcement%20Learning%2C%20J.%20Degrave%20et%20al%2C%202022.pdf)
 7/4 | Sub-policy Adaptation for Hierarchical Reinforcement Learning, AC. Li et al, 2019. | Seonghak Hong | [[paper]](https://arxiv.org/abs/1906.05862) [[review]](./220704%20-%20Sub-policy%20Adaptation%20for%20Hierarchical%20Reinforcement%20Learning.pdf)
 7/11 | A Generalist Agent, S. Reed et al, 2022. | Dokyoon Yoon | [[paper]](https://arxiv.org/abs/2205.06175) [review]
-7/11 | Implementation of Phasic Policy Gradient, K. Cobbe et al, 2020. | Sungkwon On | [[paper]](https://arxiv.org/abs/2009.04416) [code]
+7/11 | Leveraging Procedural Generation to Benchmark Reinforcement Learning, K. Cobbe et al, 2019. | Sungkwon On | [[paper]](https://arxiv.org/abs/1912.01588) [code]
 7/18 | Implementation of IPDALight: Intensity- and Phase Duration-aware Traffic Signal Control based on Reinforcement Learning, W. Zhao et al, 2021. | Jiho Yeo | [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1383762121002587) [code]
-7/18 | Development and Validation of a Reinforcement Learning Algorithm to Dynamically Optimize Mechanical Ventilation in Critical Care, A. Peine et al, 2021. | Hyeonhoon Lee | [[paper]](https://www.nature.com/articles/s41746-021-00388-6) [review]
+7/18 | The Artificial Intelligence Clinician Learns Optimal Treatment Strategies for Sepsis in Intensive Care, M. Komorowski et al, 2018. | Hyeonhoon Lee | [[paper]](https://www.nature.com/articles/s41591-018-0213-5) [review]
 7/25 | Implementation of Addressing Function Approximation Error in Actor-Critic Methods, S. Fujimoto et al, 2018. | Donggu Kang | [[paper]](https://arxiv.org/abs/1802.09477) [code]
 7/25 | Language Understanding for Text-based Games Using Deep Reinforcement Learning, K. Narasimhan et al, 2015. | Sohyeon Yim | [[paper]](https://arxiv.org/abs/1506.08941) [review]
 TBD | Implementation of Rainbow: Combining Improvements in Deep Reinforcement Learning, M. Hessel et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/abs/1710.02298) [code]
