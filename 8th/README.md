@@ -20,7 +20,6 @@ Date | Paper | Presenter | Links
 7/18 | The Artificial Intelligence Clinician Learns Optimal Treatment Strategies for Sepsis in Intensive Care, M. Komorowski et al, 2018. | Hyeonhoon Lee | [[paper]](https://www.nature.com/articles/s41591-018-0213-5) [[review]](./220718%20-%20The%20Artificial%20Intelligence%20Clinician%20Learns%20Optimal%20Treatment%20Strategies%20for%20Sepsis%20in%20Intensive%20Care%2C%20M.%20Komorowski%20et%20al%2C%202018.pdf)
 7/25 | Implementation of Addressing Function Approximation Error in Actor-Critic Methods, S. Fujimoto et al, 2018. | Donggu Kang | [[paper]](https://arxiv.org/abs/1802.09477) [code]
 7/25 | Language Understanding for Text-based Games Using Deep Reinforcement Learning, K. Narasimhan et al, 2015. | Sohyeon Yim | [[paper]](https://arxiv.org/abs/1506.08941) [review]
-TBD | Implementation of Rainbow: Combining Improvements in Deep Reinforcement Learning, M. Hessel et al, 2017. | Chris Ohk | [[paper]](https://arxiv.org/abs/1710.02298) [code]
 
 ### Study Member
 
