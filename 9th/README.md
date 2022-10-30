@@ -2,8 +2,8 @@
 
 Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
-10/24 | Selective Token Generation for Few-shot Natural Language Generation, D. Jo et al, 2022. | Daejin Jo | [[paper]](https://arxiv.org/abs/2209.08206) [review]
-10/24 | Parameterized MDPs and Reinforcement Learning Problems -- A Maximum Entropy Principle Based Framework, A. Srivastava et al, 2020. | Hyungjin Yoon | [[paper]](https://arxiv.org/abs/2006.09646) [review]
+10/24 | Selective Token Generation for Few-shot Natural Language Generation, D. Jo et al, 2022. | Daejin Jo | [[paper]](https://arxiv.org/abs/2209.08206) [[review]](./221024%20-%20Selective%20Token%20Generation%20for%20Few-shot%20Natural%20Language%20Generation%2C%20D.%20Jo%20et%20al%2C%202022.pdf)
+10/24 | Parameterized MDPs and Reinforcement Learning Problems -- A Maximum Entropy Principle Based Framework, A. Srivastava et al, 2020. | Hyungjin Yoon | [[paper]](https://arxiv.org/abs/2006.09646) [[review]](./221024%20-%20Parameterized%20MDPs%20and%20Reinforcement%20Learning%20Problems%20--%20A%20Maximum%20Entropy%20Principle%20Based%20Framework%2C%20A.%20Srivastava%20et%20al%2C%202020.pdf)
 10/31 | Decision Transformer: Reinforcement Learning via Sequence Modeling, L. Chen et al, 2021. | Hyeonhoon Lee | [[paper]](https://arxiv.org/abs/2106.01345) [review]
 10/31 | Planning with Diffusion for Flexible Behavior Synthesis, M. Janner et al, 2022. | Seungje Yoon | [[paper]](https://arxiv.org/abs/2205.09991) [review]
 11/7 | The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games, C. Yu et al, 2021. | Seonghak Hong | [[paper]](https://arxiv.org/abs/2103.01955) [review]
