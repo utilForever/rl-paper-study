@@ -9,7 +9,6 @@ Date | Paper | Presenter | Links
 11/7 | The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games, C. Yu et al, 2021. | Seonghak Hong | [[paper]](https://arxiv.org/abs/2103.01955) [[review]](./221107%20-%20The%20Surprising%20Effectiveness%20of%20PPO%20in%20Cooperative%2C%20Multi-Agent%20Games%2C%20C.%20Yu%20et%20al%2C%202021.pdf)
 11/7 | Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning, Z. Wang et al, 2022. | Mingyu Sung | [[paper]](https://arxiv.org/abs/2208.06193) [[review]](./221107%20-%20Diffusion%20Policies%20as%20an%20Expressive%20Policy%20Class%20for%20Offline%20Reinforcement%20Learning%2C%20Z.%20Wang%20et%20al%2C%202022.pdf)
 11/14 | Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward, K. Zhou et al, 2017. | Donggu Kang | [[paper]](https://arxiv.org/abs/1801.00054) [review]
-11/14 | Never Give Up: Learning Directed Exploration Strategies, AP. Badia et al, 2019. | Woosung Park | [[paper]](https://arxiv.org/abs/2002.06038) [review]
 11/21 | Hindsight Credit Assignment, A. Harutyunyan et al, 2019. | Dongjin Lee | [[paper]](https://arxiv.org/abs/1912.02503) [review]
 11/21 | Rainbow: Combining Improvements in Deep Reinforcement Learning, M. Hessel et al, 2017. | Yongwoo Kim | [[paper]](https://arxiv.org/abs/1710.02298) [review]
 11/28 | Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning, J. Perolat et al, 2022. | Seungeon Baek | [[paper]](https://arxiv.org/abs/2206.15378) [review]
@@ -29,7 +28,6 @@ Date | Paper | Presenter | Links
 * [Seonghak Hong](https://github.com/hong-sh)
 * Mingyu Sung
 * [Donggu Kang](https://github.com/HERIUN)
-* Woosung Park
 * [Dongjin Lee](https://github.com/HiddenBeginner)
 * Yongwoo Kim
 * [Seungeon Baek](https://github.com/SeungeonBaek)
