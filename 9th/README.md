@@ -13,7 +13,7 @@ Date | Paper | Presenter | Links
 11/21 | Never Give Up: Learning Directed Exploration Strategies, AP. Badia et al, 2019. | Woosung Park | [[paper]](https://arxiv.org/abs/2002.06038) [[review]](./221121%20-%20Never%20Give%20Up%2C%20Learning%20Directed%20Exploration%20Strategies%2C%20AP.%20Badia%20et%20al%2C%202019.pdf)
 11/28 | Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning, J. Perolat et al, 2022. | Seungeon Baek | [[paper]](https://arxiv.org/abs/2206.15378) [[review]](./221128%20-%20Mastering%20the%20Game%20of%20Stratego%20with%20Model-Free%20Multiagent%20Reinforcement%20Learning%2C%20J.%20Perolat%20et%20al%2C%202022.pdf)
 11/28 | Learning Improvement Heuristics for Solving Routing Problems, Y. Wu et al, 2019. | Seongjin Lee | [[paper]](https://arxiv.org/abs/1912.05784) [[review]](./221128%20-%20Learning%20Improvement%20Heuristics%20for%20Solving%20Routing%20Problems%2C%20Y.%20Wu%20et%20al%2C%202019.pdf)
-12/5 | Implementation of Phasic Policy Gradient, K. Cobbe et al, 2020. | Sungkwon On | [[paper]](https://arxiv.org/abs/2009.04416) [review]
+12/5 | Hierarchical Reinforcement Learning for Air-to-Air Combat, AP. Pope et al, 2021. | Sungkwon On | [[paper]](https://arxiv.org/abs/2105.00990) [review]
 12/12 | A Review of Reinforcement Learning Based Intelligent Optimization for Manufacturing Scheduling, L. Wang et al, 2021. | Yonghae Kim | [[paper]](https://ieeexplore.ieee.org/document/9673698) [review]
 12/12 | Implementation of Reverb: A Framework For Experience Replay, A. Cassirer et al, 2021. | Dokyoon Yoon | [[paper]](https://arxiv.org/abs/2102.04736) [review]
 12/12 | Data-Efficient Hierarchical Reinforcement Learning, O. Nachum et al, 2018. | Doyun Kim | [[paper]](https://arxiv.org/abs/1805.08296) [review]
