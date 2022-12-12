@@ -14,9 +14,9 @@ Date | Paper | Presenter | Links
 11/28 | Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning, J. Perolat et al, 2022. | Seungeon Baek | [[paper]](https://arxiv.org/abs/2206.15378) [[review]](./221128%20-%20Mastering%20the%20Game%20of%20Stratego%20with%20Model-Free%20Multiagent%20Reinforcement%20Learning%2C%20J.%20Perolat%20et%20al%2C%202022.pdf)
 11/28 | Learning Improvement Heuristics for Solving Routing Problems, Y. Wu et al, 2019. | Seongjin Lee | [[paper]](https://arxiv.org/abs/1912.05784) [[review]](./221128%20-%20Learning%20Improvement%20Heuristics%20for%20Solving%20Routing%20Problems%2C%20Y.%20Wu%20et%20al%2C%202019.pdf)
 12/5 | Hierarchical Reinforcement Learning for Air-to-Air Combat, AP. Pope et al, 2021. | Sungkwon On | [[paper]](https://arxiv.org/abs/2105.00990) [[review]](./221205%20-%20Hierarchical%20Reinforcement%20Learning%20for%20Air-to-Air%20Combat%2C%20AP.%20Pope%20et%20al%2C%202021.pdf)
-12/12 | A Review of Reinforcement Learning Based Intelligent Optimization for Manufacturing Scheduling, L. Wang et al, 2021. | Yonghae Kim | [[paper]](https://ieeexplore.ieee.org/document/9673698) [review]
-12/12 | Is Conditional Generative Modeling all you need for Decision-Making, A. Ajay et al, 2022. | Dokyoon Yoon | [[paper]](https://arxiv.org/abs/2211.15657) [review]
-12/12 | When to Trust Your Model: Model-Based Policy Optimization, M. Janner et al, 2019. | Doyun Kim | [[paper]](https://arxiv.org/abs/1906.08253) [review]
+12/12 | A Review of Reinforcement Learning Based Intelligent Optimization for Manufacturing Scheduling, L. Wang et al, 2021. | Yonghae Kim | [[paper]](https://ieeexplore.ieee.org/document/9673698) [[review]](./221212%20-%20A%20Review%20of%20Reinforcement%20Learning%20Based%20Intelligent%20Optimization%20for%20Manufacturing%20Scheduling%2C%20L.%20Wang%20et%20al%2C%202021.pdf)
+12/12 | Is Conditional Generative Modeling all you need for Decision-Making, A. Ajay et al, 2022. | Dokyoon Yoon | [[paper]](https://arxiv.org/abs/2211.15657) [[review]](./221212%20-%20Is%20Conditional%20Generative%20Modeling%20all%20you%20need%20for%20Decision-Making%2C%20A.%20Ajay%20et%20al%2C%202022.pdf)
+12/12 | When to Trust Your Model: Model-Based Policy Optimization, M. Janner et al, 2019. | Doyun Kim | [[paper]](https://arxiv.org/abs/1906.08253) [[review]](./221212%20-%20When%20to%20Trust%20Your%20Model%2C%20Model-Based%20Policy%20Optimization%2C%20M.%20Janner%20et%20al%2C%202019.pdf)
 
 ### Study Member
 
