@@ -29,7 +29,7 @@ Date | Paper | Presenter | Links
 * Mingyu Sung
 * [Donggu Kang](https://github.com/HERIUN)
 * [Dongjin Lee](https://github.com/HiddenBeginner)
-* Woosung Park
+* [Woosung Park](https://github.com/helpingstar)
 * [Seungeon Baek](https://github.com/SeungeonBaek)
 * [Seongjin Lee](https://github.com/S2eongjin)
 * Sungkwon On
