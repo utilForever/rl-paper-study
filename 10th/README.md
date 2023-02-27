@@ -2,7 +2,7 @@
 
 Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
-2/27 | LECO: Learnable Episodic Count for Task-Specific Intrinsic Reward, D. Jo et al, 2022. | Daejin Jo | [[paper]](https://arxiv.org/pdf/2210.05409.pdf) [review]
+2/27 | LECO: Learnable Episodic Count for Task-Specific Intrinsic Reward, D. Jo et al, 2022. | Daejin Jo | [[paper]](https://arxiv.org/pdf/2210.05409.pdf) [[review]](./230227%20-%20LECO%2C%20Learnable%20Episodic%20Count%20for%20Task-Specific%20Intrinsic%20Reward%2C%20D.%20Jo%20et%20al%2C%202022.pdf)
 3/6 | SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning, K. Lee et al, 2020. | Dongjin Lee | [[paper]](https://arxiv.org/pdf/2007.04938.pdf) [review]
 3/6 | You Only Live Once: Single-Life Reinforcement Learning, AS. Chen et al, 2022. | Chris Ohk | [[paper]](https://arxiv.org/pdf/2210.08863.pdf) [review]
 3/13 | Gaussian Processes in Reinforcement Learning, TBD. | Junho Shin | [paper] [review]
