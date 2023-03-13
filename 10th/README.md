@@ -4,7 +4,6 @@ Date | Paper | Presenter | Links
 :---: | :---: | :---: | :---:
 2/27 | LECO: Learnable Episodic Count for Task-Specific Intrinsic Reward, D. Jo et al, 2022. | Daejin Jo | [[paper]](https://arxiv.org/pdf/2210.05409.pdf) [[review]](./230227%20-%20LECO%2C%20Learnable%20Episodic%20Count%20for%20Task-Specific%20Intrinsic%20Reward%2C%20D.%20Jo%20et%20al%2C%202022.pdf)
 3/6 | SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning, K. Lee et al, 2020. | Dongjin Lee | [[paper]](https://arxiv.org/pdf/2007.04938.pdf) [[review]](./230306%20-%20SUNRISE%2C%20A%20Simple%20Unified%20Framework%20for%20Ensemble%20Learning%20in%20Deep%20Reinforcement%20Learning%2C%20K.%20Lee%20et%20al%2C%202020.pdf)
-3/13 | Gaussian Processes in Reinforcement Learning, TBD. | Junho Shin | [paper] [review]
 3/13 | Deep Reinforcement Learning that Matters, P. Henderson et al, 2017. | Sungkwon On | [[paper]](https://arxiv.org/pdf/1709.06560.pdf) [review]
 3/20 | Same State, Different Task: Continual Reinforcement Learning without Interference, S. Kessler et al, 2021. | Yerin Min | [[paper]](https://arxiv.org/pdf/2106.02940.pdf) [review]
 3/20 | Know Your Action Set: Learning Action Relations for Reinforcement Learning, A. Jain et al, 2022. | Seonghak Hong | [[paper]](https://openreview.net/pdf?id=MljXVdp4A3N) [review]
@@ -17,6 +16,7 @@ Date | Paper | Presenter | Links
 4/17 | Dynamic Multi-Objective Scheduling for Flexible Job Shop by Deep Reinforcement Learning, S. Luo et al, 2021. | Yonghae Kim | [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0360835221003934) [review]
 4/17 | A Simple Neural Attentive Meta-Learner, N. Mishra et al, 2017. | Donggu Kang | [[paper]](https://arxiv.org/pdf/1707.03141.pdf) [review]
 TBA | You Only Live Once: Single-Life Reinforcement Learning, AS. Chen et al, 2022. | Chris Ohk | [[paper]](https://arxiv.org/pdf/2210.08863.pdf) [review]
+TBA | Gaussian Processes in Reinforcement Learning, TBD. | Junho Shin | [paper] [review]
 
 ### Study Member
 
