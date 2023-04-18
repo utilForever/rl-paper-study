@@ -13,10 +13,8 @@ Date | Paper | Presenter | Links
 4/3 | QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning, T. Rashid et al, 2018. | Woosung Park | [[paper]](https://arxiv.org/pdf/1803.11485.pdf) [[review]](./230403%20-%20QMIX%2C%20Monotonic%20Value%20Function%20Factorisation%20for%20Deep%20Multi-Agent%20Reinforcement%20Learning%2C%20T.%20Rashid%20et%20al%2C%202018.pdf)
 4/10 | Hierarchically and Cooperatively Learning Traffic Signal Control, B. Xu et al, 2021. | Seongjin Lee | [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16147) [[review]](./230410%20-%20Hierarchically%20and%20Cooperatively%20Learning%20Traffic%20Signal%20Control%2C%20B.%20Xu%20et%20al%2C%202021.pdf)
 4/10 | Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model, AX. Lee et al, 2019. | Seungeon Baek | [[paper]](https://arxiv.org/pdf/1907.00953.pdf) [[review]](./230410%20-%20Stochastic%20Latent%20Actor-Critic%2C%20Deep%20Reinforcement%20Learning%20with%20a%20Latent%20Variable%20Model%2C%20AX.%20Lee%20et%20al%2C%202019.pdf)
-4/17 | Dynamic Multi-Objective Scheduling for Flexible Job Shop by Deep Reinforcement Learning, S. Luo et al, 2021. | Yonghae Kim | [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0360835221003934) [review]
-4/17 | A Simple Neural Attentive Meta-Learner, N. Mishra et al, 2017. | Donggu Kang | [[paper]](https://arxiv.org/pdf/1707.03141.pdf) [review]
-TBA | You Only Live Once: Single-Life Reinforcement Learning, AS. Chen et al, 2022. | Chris Ohk | [[paper]](https://arxiv.org/pdf/2210.08863.pdf) [review]
-TBA | Gaussian Processes in Reinforcement Learning, TBD. | Junho Shin | [paper] [review]
+4/17 | Dynamic Multi-Objective Scheduling for Flexible Job Shop by Deep Reinforcement Learning, S. Luo et al, 2021. | Yonghae Kim | [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0360835221003934) [[review]](./230417%20-%20Dynamic%20Multi-Objective%20Scheduling%20for%20Flexible%20Job%20Shop%20by%20Deep%20Reinforcement%20Learning%2C%20S.%20Luo%20et%20al%2C%202021.pdf)
+4/17 | A Simple Neural Attentive Meta-Learner, N. Mishra et al, 2017. | Donggu Kang | [[paper]](https://arxiv.org/pdf/1707.03141.pdf) [[review]](./230417%20-%20A%20Simple%20Neural%20Attentive%20Meta-Learner%2C%20N.%20Mishra%20et%20al%2C%202017.pdf)
 
 ### Study Member
 
